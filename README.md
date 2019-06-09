@@ -1,4 +1,9 @@
 # kids
+## Study
+### Mathematics
+* Sing Multiplication Song to Learn Multiplication Tables (1 to 10)
+  * https://www.youtube.com/watch?v=BchpGkLvTy8
+
 ## Songs
 * Baby Shark and More | Kids Fun Songs
   * https://m.youtube.com/watch?v=gZFBLJCk7pU
