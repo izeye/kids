@@ -1,5 +1,9 @@
 # kids
 ## Study
+### English
+* Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson
+  * https://www.youtube.com/watch?v=jhZx7VsCKE8
+
 ### Mathematics
 * Sing Multiplication Song to Learn Multiplication Tables (1 to 10)
   * https://www.youtube.com/watch?v=BchpGkLvTy8
