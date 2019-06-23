@@ -3,6 +3,8 @@
 ### English
 * Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson
   * https://www.youtube.com/watch?v=jhZx7VsCKE8
+* Phonics Long Vowel u | u-e words
+  * https://www.youtube.com/watch?v=XJ-_nS81R4s
 
 ### Mathematics
 * Sing Multiplication Song to Learn Multiplication Tables (1 to 10)
