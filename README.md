@@ -1,6 +1,11 @@
 # kids
 ## Study
 ### English
+#### Grammar
+* Basic English Grammar - Do, Does, Did, Don't, Doesn't, Didn't
+  * https://www.youtube.com/watch?v=LOw5h0_oUEM
+
+#### Pronunciation
 * Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson
   * https://www.youtube.com/watch?v=jhZx7VsCKE8
 * Phonics Long Vowel u | u-e words
