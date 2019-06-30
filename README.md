@@ -6,6 +6,8 @@
   * https://www.youtube.com/watch?v=LOw5h0_oUEM
 * Basic English Grammar: Pronouns - SHE, HER, HE, HIS
   * https://www.youtube.com/watch?v=_IK_0sIsfxg
+* He/She/I vs. Him/Her/Me in English Grammar
+  * https://www.youtube.com/watch?v=tDeW4WdXSns
 * Using I, me, my, mine, and myself correctly – English Grammar Lesson
   * https://www.youtube.com/watch?v=PeHT9hNORPU
 
