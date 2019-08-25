@@ -10,6 +10,8 @@
   * https://www.youtube.com/watch?v=tDeW4WdXSns
 * His, Her, He, She
   * https://www.youtube.com/watch?v=4OvGoohdmv0
+* Personal Pronouns for Kids!
+  * https://www.youtube.com/watch?v=SWnc1HSCvRY
 * Using I, me, my, mine, and myself correctly – English Grammar Lesson
   * https://www.youtube.com/watch?v=PeHT9hNORPU
 
