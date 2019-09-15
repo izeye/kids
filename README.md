@@ -32,3 +32,9 @@
   * https://www.youtube.com/watch?v=OwRmivbNgQk
 * Walking In The Jungle | Super Simple Songs
   * https://www.youtube.com/watch?v=GoSq-yZcJ-4
+
+## Games
+### Games to learn English
+* Games
+  * Fast English
+    * Animals 1
