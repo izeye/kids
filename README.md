@@ -38,3 +38,7 @@
 * Games
   * Fast English
     * Animals 1
+
+## Articles
+* 10 REASONS YOUR CHILD CAN’T CONCENTRATE IN SCHOOL (THAT AREN’T ADD)
+  * https://www.oxfordlearning.com/why-cant-my-child-focus/
