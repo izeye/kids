@@ -21,6 +21,10 @@
 * Phonics Long Vowel u | u-e words
   * https://www.youtube.com/watch?v=XJ-_nS81R4s
 
+### Misc.
+* Why is w called a double u? - Learn English for Kids | Mocomi
+  * https://www.youtube.com/watch?v=KDgIXaB3EWY
+
 ### Mathematics
 * Sing Multiplication Song to Learn Multiplication Tables (1 to 10)
   * https://www.youtube.com/watch?v=BchpGkLvTy8
