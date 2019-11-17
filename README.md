@@ -34,6 +34,8 @@
   * https://m.youtube.com/watch?v=gZFBLJCk7pU
 * Let's Go To The Zoo | Animal Song for Kids
   * https://www.youtube.com/watch?v=OwRmivbNgQk
+* The Finger Family (Monkey's Family) Nursery Rhyme | Kids Animation Songs For Children
+  * https://www.youtube.com/watch?v=x3kx9YoqzOY
 * Walking In The Jungle | Super Simple Songs
   * https://www.youtube.com/watch?v=GoSq-yZcJ-4
 
