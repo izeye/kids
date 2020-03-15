@@ -21,6 +21,10 @@
 * Phonics Long Vowel u | u-e words
   * https://www.youtube.com/watch?v=XJ-_nS81R4s
 
+#### Cartoons
+##### Max & Ruby
+* Season 1 (Episode 1)
+
 ### Misc.
 * Why is w called a double u? - Learn English for Kids | Mocomi
   * https://www.youtube.com/watch?v=KDgIXaB3EWY
