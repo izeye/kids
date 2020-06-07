@@ -21,7 +21,6 @@
   - Publisher: 한림출판사
 
 ## YouTube
-* Brush Your Teeth | Kids Songs | Super Simple Songs
-  * https://www.youtube.com/watch?v=wCio_xVlgQ0
-* Developmental Games for 10 Month Old! | Kristen from Millennial Moms
-  * https://www.youtube.com/watch?v=IucS5KiVHDU
+* [Apples & Bananas | Super Simple Songs](https://www.youtube.com/watch?v=r5WLXZspD1M)
+* [Brush Your Teeth | Kids Songs | Super Simple Songs](https://www.youtube.com/watch?v=wCio_xVlgQ0)
+* [Developmental Games for 10 Month Old! | Kristen from Millennial Moms](https://www.youtube.com/watch?v=IucS5KiVHDU)
