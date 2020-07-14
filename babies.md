@@ -19,6 +19,10 @@
   - Author: 하야시 아키코
   - Translator: 이영준
   - Publisher: 한림출판사
+* 타고 또 타고
+  - Author: 후유노 이치코
+  - Translator: 바움
+  - Publisher: (주)푸름이닷컴
 
 ## YouTube
 * [Apples & Bananas | Super Simple Songs](https://www.youtube.com/watch?v=r5WLXZspD1M)
