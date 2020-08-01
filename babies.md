@@ -28,3 +28,4 @@
 * [Apples & Bananas | Super Simple Songs](https://www.youtube.com/watch?v=r5WLXZspD1M)
 * [Brush Your Teeth | Kids Songs | Super Simple Songs](https://www.youtube.com/watch?v=wCio_xVlgQ0)
 * [Developmental Games for 10 Month Old! | Kristen from Millennial Moms](https://www.youtube.com/watch?v=IucS5KiVHDU)
+* [Growing with your Child (2 to 3 years)](https://www.youtube.com/watch?v=J1CBXewohDQ)
