@@ -59,5 +59,5 @@
   * https://www.oxfordlearning.com/study-without-getting-distracted-tips/
 
 ### YouTube
-* How to Keep Easily Distracted Kids Focused
-  * https://www.youtube.com/watch?v=T4lnVzNBtKY
+* [For Kids: Indoor Activities](https://www.youtube.com/watch?v=v9AAmD4gq1I)
+* [How to Keep Easily Distracted Kids Focused](https://www.youtube.com/watch?v=T4lnVzNBtKY)
