@@ -30,8 +30,8 @@
   * https://www.youtube.com/watch?v=KDgIXaB3EWY
 
 ### Mathematics
-* Sing Multiplication Song to Learn Multiplication Tables (1 to 10)
-  * https://www.youtube.com/watch?v=BchpGkLvTy8
+* [Math Puzzle for Kids - Use Logic to Trick your Friends](https://www.youtube.com/watch?v=pmQa0W_R-fc)
+* [Sing Multiplication Song to Learn Multiplication Tables (1 to 10)](https://www.youtube.com/watch?v=BchpGkLvTy8)
 
 ## Songs
 * Baby Shark and More | Kids Fun Songs
