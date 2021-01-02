@@ -62,3 +62,8 @@
 ### YouTube
 * [For Kids: Indoor Activities](https://www.youtube.com/watch?v=v9AAmD4gq1I)
 * [How to Keep Easily Distracted Kids Focused](https://www.youtube.com/watch?v=T4lnVzNBtKY)
+
+## Riddles
+### YouTube
+* [Funny Riddles With Answers | English Riddles For Kids | Riddles And Brain Teasers | Mango Juniors
+](https://www.youtube.com/watch?v=vXz5o5UCf8Y)
