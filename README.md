@@ -65,6 +65,7 @@
 
 ## Riddles
 ### YouTube
+* [18 Tricky Riddles That'll Stretch Your Brain](https://www.youtube.com/watch?v=be9RJp4f4Pc)
 * [BEST "WHAT AM I" RIDDLES AND TRICKY PICTURES TO PUZZLE YOUR MIND!](https://www.youtube.com/watch?v=MiRnq8GlRFI)
 * [Funny Riddles With Answers | English Riddles For Kids | Riddles And Brain Teasers | Mango Juniors
 ](https://www.youtube.com/watch?v=vXz5o5UCf8Y)
