@@ -70,3 +70,7 @@
 * [BEST "WHAT AM I" RIDDLES AND TRICKY PICTURES TO PUZZLE YOUR MIND!](https://www.youtube.com/watch?v=MiRnq8GlRFI)
 * [Funny Riddles With Answers | English Riddles For Kids | Riddles And Brain Teasers | Mango Juniors
 ](https://www.youtube.com/watch?v=vXz5o5UCf8Y)
+
+## Optical Illusions
+### YouTube
+* [11 Optical Illusions That Will Trick Your Eyes](https://www.youtube.com/watch?v=llLVk2fqylA)
