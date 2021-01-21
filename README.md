@@ -71,6 +71,7 @@
 * [BEST "WHAT AM I" RIDDLES AND TRICKY PICTURES TO PUZZLE YOUR MIND!](https://www.youtube.com/watch?v=MiRnq8GlRFI)
 * [Funny Riddles With Answers | English Riddles For Kids | Riddles And Brain Teasers | Mango Juniors
 ](https://www.youtube.com/watch?v=vXz5o5UCf8Y)
+* [If You Solve 10% of These Riddles, You Are Better Than Sherlock](https://www.youtube.com/watch?v=HcyvUbfAy-c)
 * [Solve 6 Riddles to Prove You Think Faster Than Sherlock](https://www.youtube.com/watch?v=Zu9iYDyVcOQ)
 
 ## Optical Illusions
