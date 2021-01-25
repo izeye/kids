@@ -37,6 +37,7 @@
 * [Funny Riddles With Answers | English Riddles For Kids | Riddles And Brain Teasers | Mango Juniors
 ](https://www.youtube.com/watch?v=vXz5o5UCf8Y)
 * [If You Solve 10% of These Riddles, You Are Better Than Sherlock](https://www.youtube.com/watch?v=HcyvUbfAy-c)
+* [If You Solve 11 Riddles, You're Smarter Than I'll Ever Be](https://www.youtube.com/watch?v=3YjDrga3WGg)
 * [Solve 6 Riddles to Prove You Think Faster Than Sherlock](https://www.youtube.com/watch?v=Zu9iYDyVcOQ)
 
 ## Optical Illusions
