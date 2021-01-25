@@ -1,0 +1,16 @@
+# Words
+* actor
+* bear
+* bee
+* cap
+* chair
+* dog
+* flower
+* frog
+* girl
+* lion
+* nurse
+* pencil
+* ring
+* skirt
+* tree
