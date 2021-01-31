@@ -1,5 +1,6 @@
 # Words
 * actor
+* after school
 * angry
 * artist
 * at night
@@ -9,15 +10,18 @@
 * bathroom
 * bear
 * bee
+* birthday
 * brave
 * buy
 * cap
 * chair
 * chicken
 * church
+* classmate
 * cold
 * cook
 * cookie
+* cousin
 * dancer
 * daughter
 * delicious
@@ -28,9 +32,12 @@
 * egg
 * every day
 * every morning
+* every week
 * expensive
+* face
 * family
 * farmer
+* firefighter
 * fishbowl
 * flower
 * fork
@@ -41,11 +48,14 @@
 * giraffe
 * girl
 * give
+* gloves
+* go shopping
 * go to
 * go to sleep
 * grandmother
 * grape
 * hamburger
+* handsome
 * hard
 * have
 * horse
@@ -69,6 +79,7 @@
 * musician
 * need
 * new
+* next door
 * next to
 * nurse
 * parents
@@ -88,6 +99,7 @@
 * scientist
 * see
 * short
+* singer
 * sister
 * skirt
 * sleepy
@@ -97,10 +109,13 @@
 * student
 * study
 * table
+* tired
 * tree
 * umbrella
 * uncle
 * vegetable
 * walk
 * want
+* want to
 * wear
+* young
