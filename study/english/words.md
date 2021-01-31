@@ -1,21 +1,26 @@
 # Words
 * actor
+* angry
 * artist
 * at night
 * at noon
+* aunt
 * baker
 * bathroom
 * bear
 * bee
+* brave
 * buy
 * cap
 * chair
 * chicken
 * church
 * cold
+* cook
 * cookie
 * dancer
 * daughter
+* delicious
 * dog
 * drink
 * duck
@@ -25,11 +30,13 @@
 * every morning
 * expensive
 * family
+* farmer
 * fishbowl
 * flower
 * fork
 * friend
 * frog
+* funny
 * get up
 * giraffe
 * girl
@@ -44,6 +51,7 @@
 * horse
 * hot
 * hour
+* hungry
 * in class
 * Japan
 * kitchen
@@ -55,6 +63,7 @@
 * live in
 * long
 * make
+* mirror
 * money
 * mountain
 * musician
@@ -66,16 +75,22 @@
 * pass
 * pencil
 * play basketball
+* police officer
+* queen
 * rabbit
 * read
 * ring
 * river
 * run
+* sad
 * school
 * science
+* scientist
 * see
+* short
 * sister
 * skirt
+* sleepy
 * slow
 * son
 * strong
