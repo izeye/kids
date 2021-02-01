@@ -1,6 +1,7 @@
 # Words
 * actor
 * after school
+* album
 * angry
 * artist
 * at night
@@ -14,6 +15,7 @@
 * brave
 * buy
 * cap
+* carrot
 * chair
 * chicken
 * church
@@ -22,20 +24,24 @@
 * cook
 * cookie
 * cousin
+* cucumber
 * dancer
 * daughter
 * delicious
+* doctor
 * dog
 * drink
 * duck
 * eat
 * egg
+* elephant
 * every day
 * every morning
 * every week
 * expensive
 * face
 * family
+* famous
 * farmer
 * firefighter
 * fishbowl
@@ -65,6 +71,7 @@
 * in class
 * Japan
 * kitchen
+* kite
 * know
 * Korea
 * lemon
@@ -78,10 +85,14 @@
 * mountain
 * musician
 * need
+* nephew
 * new
 * next door
 * next to
+* niece
 * nurse
+* onion
+* painter
 * parents
 * pass
 * pencil
@@ -92,6 +103,7 @@
 * read
 * ring
 * river
+* rose
 * run
 * sad
 * school
@@ -105,12 +117,15 @@
 * sleepy
 * slow
 * son
+* spider
 * strong
 * student
 * study
 * table
+* taxi
 * tired
 * tree
+* tulip
 * umbrella
 * uncle
 * vegetable
