@@ -12,6 +12,7 @@
 * bear
 * bee
 * birthday
+* boring
 * brave
 * buy
 * cap
@@ -28,13 +29,17 @@
 * dancer
 * daughter
 * delicious
+* dentist
+* designer
 * doctor
 * dog
+* drawer
 * drink
 * duck
 * eat
 * egg
 * elephant
+* eraser
 * every day
 * every morning
 * every week
@@ -42,6 +47,7 @@
 * face
 * family
 * famous
+* fan
 * farmer
 * firefighter
 * fishbowl
@@ -64,7 +70,9 @@
 * handsome
 * hard
 * have
+* hen
 * horse
+* hospital
 * hot
 * hour
 * hungry
@@ -79,23 +87,29 @@
 * lion
 * live in
 * long
+* lovely
 * make
 * mirror
 * money
 * mountain
+* movie
 * musician
 * need
+* neighbor
 * nephew
 * new
 * next door
 * next to
 * niece
+* notebook
 * nurse
 * onion
 * painter
 * parents
 * pass
 * pencil
+* pencil case
+* pet
 * play basketball
 * police officer
 * queen
@@ -106,6 +120,7 @@
 * rose
 * run
 * sad
+* scarf
 * school
 * science
 * scientist
