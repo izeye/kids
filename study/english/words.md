@@ -2,6 +2,7 @@
 * actor
 * after school
 * album
+* American
 * angry
 * artist
 * at night
@@ -10,6 +11,7 @@
 * baker
 * bathroom
 * bear
+* beautiful
 * bee
 * birthday
 * boring
@@ -109,6 +111,7 @@
 * pass
 * pencil
 * pencil case
+* penguin
 * pet
 * play basketball
 * police officer
@@ -131,6 +134,7 @@
 * skirt
 * sleepy
 * slow
+* smart
 * son
 * spider
 * strong
@@ -149,3 +153,4 @@
 * want to
 * wear
 * young
+* yummy
