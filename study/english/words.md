@@ -25,6 +25,7 @@
 * classmate
 * cold
 * cook
+* cool
 * cookie
 * cousin
 * cucumber
@@ -57,8 +58,10 @@
 * fork
 * friend
 * frog
+* full
 * funny
 * get up
+* gift
 * giraffe
 * girl
 * give
@@ -84,7 +87,9 @@
 * kite
 * know
 * Korea
+* lazy
 * lemon
+* library
 * like
 * lion
 * live in
@@ -99,6 +104,7 @@
 * need
 * neighbor
 * nephew
+* nervous
 * new
 * next door
 * next to
@@ -113,6 +119,7 @@
 * pencil case
 * penguin
 * pet
+* pilot
 * play basketball
 * police officer
 * queen
@@ -129,6 +136,7 @@
 * scientist
 * see
 * short
+* shy
 * singer
 * sister
 * skirt
@@ -142,6 +150,8 @@
 * study
 * table
 * taxi
+* thin
+* thirsty
 * tired
 * tree
 * tulip
