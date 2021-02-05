@@ -20,6 +20,7 @@
 * cap
 * carrot
 * chair
+* cheap
 * chicken
 * church
 * classmate
@@ -123,6 +124,7 @@
 * play basketball
 * police officer
 * queen
+* quiet
 * rabbit
 * read
 * ring
@@ -137,6 +139,7 @@
 * see
 * short
 * shy
+* sick
 * singer
 * sister
 * skirt
@@ -155,6 +158,7 @@
 * tired
 * tree
 * tulip
+* twin
 * umbrella
 * uncle
 * vegetable
@@ -162,5 +166,6 @@
 * want
 * want to
 * wear
+* worried
 * young
 * yummy
