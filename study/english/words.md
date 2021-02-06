@@ -5,6 +5,7 @@
 * American
 * angry
 * artist
+* at home
 * at night
 * at noon
 * aunt
@@ -16,14 +17,17 @@
 * birthday
 * boring
 * brave
+* busy
 * buy
 * cap
 * carrot
 * chair
 * cheap
 * chicken
+* China
 * church
 * classmate
+* clean
 * cold
 * cook
 * cool
@@ -40,9 +44,11 @@
 * drawer
 * drink
 * duck
+* easy
 * eat
 * egg
 * elephant
+* empty
 * eraser
 * every day
 * every morning
@@ -55,6 +61,7 @@
 * farmer
 * firefighter
 * fishbowl
+* flag
 * flower
 * fork
 * friend
@@ -82,6 +89,7 @@
 * hot
 * hour
 * hungry
+* idea
 * in class
 * Japan
 * kitchen
@@ -110,9 +118,11 @@
 * next door
 * next to
 * niece
+* noisy
 * notebook
 * nurse
 * onion
+* outside
 * painter
 * parents
 * pass
@@ -133,10 +143,12 @@
 * run
 * sad
 * scarf
+* scary
 * school
 * science
 * scientist
 * see
+* sharp
 * short
 * shy
 * sick
@@ -148,14 +160,17 @@
 * smart
 * son
 * spider
+* street
 * strong
 * student
 * study
+* sweater
 * table
 * taxi
 * thin
 * thirsty
 * tired
+* town
 * tree
 * tulip
 * twin
