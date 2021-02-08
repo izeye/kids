@@ -17,6 +17,7 @@
 * birthday
 * boring
 * brave
+* bus driver
 * busy
 * buy
 * cap
@@ -28,6 +29,8 @@
 * church
 * classmate
 * clean
+* close
+* closet
 * cold
 * cook
 * cool
@@ -35,12 +38,15 @@
 * cousin
 * cucumber
 * dancer
+* dark
 * daughter
 * delicious
 * dentist
 * designer
+* dirty
 * doctor
 * dog
+* dolphin
 * drawer
 * drink
 * duck
@@ -53,6 +59,8 @@
 * every day
 * every morning
 * every week
+* excellent
+* excited
 * expensive
 * face
 * family
@@ -64,8 +72,10 @@
 * flag
 * flower
 * fork
+* fresh
 * friend
 * frog
+* from here
 * full
 * funny
 * get up
@@ -83,7 +93,9 @@
 * handsome
 * hard
 * have
+* healthy
 * hen
+* high
 * horse
 * hospital
 * hot
@@ -96,6 +108,7 @@
 * kite
 * know
 * Korea
+* lake
 * lazy
 * lemon
 * library
@@ -109,6 +122,7 @@
 * money
 * mountain
 * movie
+* museum
 * musician
 * need
 * neighbor
@@ -129,10 +143,13 @@
 * pencil
 * pencil case
 * penguin
+* people
 * pet
 * pilot
 * play basketball
+* playground
 * police officer
+* popular
 * queen
 * quiet
 * rabbit
@@ -171,6 +188,7 @@
 * thirsty
 * tired
 * town
+* train
 * tree
 * tulip
 * twin
@@ -180,7 +198,9 @@
 * walk
 * want
 * want to
+* weak
 * wear
 * worried
+* wrong
 * young
 * yummy
