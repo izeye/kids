@@ -26,15 +26,18 @@
 * cheap
 * chicken
 * China
+* chocolate
 * church
 * classmate
 * clean
 * close
 * closet
+* coat
 * cold
+* comic book
 * cook
-* cool
 * cookie
+* cool
 * cousin
 * cucumber
 * dancer
@@ -43,6 +46,7 @@
 * delicious
 * dentist
 * designer
+* difficult
 * dirty
 * doctor
 * dog
@@ -50,6 +54,7 @@
 * drawer
 * drink
 * duck
+* Earth
 * easy
 * eat
 * egg
@@ -96,6 +101,7 @@
 * healthy
 * hen
 * high
+* holiday
 * horse
 * hospital
 * hot
@@ -104,6 +110,7 @@
 * idea
 * in class
 * Japan
+* kind
 * kitchen
 * kite
 * know
@@ -117,6 +124,7 @@
 * live in
 * long
 * lovely
+* lucky
 * make
 * mirror
 * money
@@ -150,10 +158,12 @@
 * playground
 * police officer
 * popular
+* post office
 * queen
 * quiet
 * rabbit
 * read
+* rich
 * ring
 * river
 * rose
@@ -175,8 +185,10 @@
 * sleepy
 * slow
 * smart
+* soccer player
 * son
 * spider
+* store
 * street
 * strong
 * student
@@ -184,6 +196,7 @@
 * sweater
 * table
 * taxi
+* test
 * thin
 * thirsty
 * tired
@@ -194,12 +207,14 @@
 * twin
 * umbrella
 * uncle
+* vacation
 * vegetable
 * walk
 * want
 * want to
 * weak
 * wear
+* wet
 * worried
 * wrong
 * young
