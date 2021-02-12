@@ -17,6 +17,7 @@
 * birthday
 * boring
 * brave
+* bright
 * bus driver
 * busy
 * buy
@@ -40,6 +41,7 @@
 * cool
 * cousin
 * cucumber
+* curious
 * dancer
 * dark
 * daughter
@@ -109,6 +111,7 @@
 * hungry
 * idea
 * in class
+* inventor
 * Japan
 * kind
 * kitchen
@@ -123,6 +126,7 @@
 * lion
 * live in
 * long
+* loud
 * lovely
 * lucky
 * make
@@ -189,6 +193,7 @@
 * son
 * spider
 * store
+* strange
 * street
 * strong
 * student
