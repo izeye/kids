@@ -2,6 +2,7 @@
 * actor
 * after school
 * album
+* alone
 * American
 * angry
 * artist
@@ -22,6 +23,7 @@
 * busy
 * buy
 * cap
+* careful
 * carrot
 * chair
 * cheap
@@ -55,6 +57,7 @@
 * dolphin
 * drawer
 * drink
+* dry
 * duck
 * Earth
 * easy
@@ -77,6 +80,7 @@
 * firefighter
 * fishbowl
 * flag
+* floor
 * flower
 * fork
 * fresh
@@ -96,14 +100,18 @@
 * go to sleep
 * grandmother
 * grape
+* gym
 * hamburger
 * handsome
 * hard
 * have
 * healthy
+* heavy
 * hen
 * high
+* history
 * holiday
+* homework
 * horse
 * hospital
 * hot
@@ -119,6 +127,7 @@
 * know
 * Korea
 * lake
+* late
 * lazy
 * lemon
 * library
@@ -130,6 +139,7 @@
 * lovely
 * lucky
 * make
+* market
 * mirror
 * money
 * mountain
@@ -150,6 +160,7 @@
 * onion
 * outside
 * painter
+* pants
 * parents
 * pass
 * pencil
@@ -161,6 +172,7 @@
 * play basketball
 * playground
 * police officer
+* poor
 * popular
 * post office
 * queen
@@ -180,6 +192,7 @@
 * scientist
 * see
 * sharp
+* shirt
 * short
 * shy
 * sick
@@ -190,6 +203,7 @@
 * slow
 * smart
 * soccer player
+* socks
 * son
 * spider
 * store
@@ -221,6 +235,7 @@
 * wear
 * wet
 * worried
+* writer
 * wrong
 * young
 * yummy
