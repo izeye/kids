@@ -105,10 +105,14 @@
 * handsome
 * hard
 * have
+* he
 * healthy
 * heavy
 * hen
+* her
+* hers
 * high
+* his
 * history
 * holiday
 * homework
@@ -117,9 +121,12 @@
 * hot
 * hour
 * hungry
+* I
 * idea
 * in class
 * inventor
+* it
+* its
 * Japan
 * kind
 * kitchen
@@ -140,12 +147,14 @@
 * lucky
 * make
 * market
+* mine
 * mirror
 * money
 * mountain
 * movie
 * museum
 * musician
+* my
 * need
 * neighbor
 * nephew
@@ -158,6 +167,8 @@
 * notebook
 * nurse
 * onion
+* our
+* ours
 * outside
 * painter
 * pants
@@ -192,6 +203,7 @@
 * scientist
 * see
 * sharp
+* she
 * shirt
 * short
 * shy
@@ -216,6 +228,9 @@
 * table
 * taxi
 * test
+* their
+* theirs
+* they
 * thin
 * thirsty
 * tired
@@ -231,11 +246,15 @@
 * walk
 * want
 * want to
+* we
 * weak
 * wear
 * wet
 * worried
 * writer
 * wrong
+* you
 * young
+* your
+* yours
 * yummy
