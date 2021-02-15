@@ -1,6 +1,7 @@
 # Words
 * actor
 * after school
+* afternoon
 * album
 * alone
 * American
@@ -66,6 +67,7 @@
 * elephant
 * empty
 * eraser
+* evening
 * every day
 * every morning
 * every week
@@ -134,6 +136,7 @@
 * know
 * Korea
 * lake
+* last night
 * late
 * lazy
 * lemon
@@ -150,6 +153,7 @@
 * mine
 * mirror
 * money
+* morning
 * mountain
 * movie
 * museum
@@ -234,6 +238,9 @@
 * thin
 * thirsty
 * tired
+* today
+* tomorrow
+* tonight
 * town
 * train
 * tree
@@ -253,6 +260,7 @@
 * worried
 * writer
 * wrong
+* yesterday
 * you
 * young
 * your
