@@ -64,7 +64,11 @@
 * easy
 * eat
 * egg
+* eight
+* eighteen
+* eighty
 * elephant
+* eleven
 * empty
 * eraser
 * evening
@@ -79,12 +83,17 @@
 * famous
 * fan
 * farmer
+* fifteen
 * firefighter
 * fishbowl
+* five
 * flag
 * floor
 * flower
 * fork
+* forty
+* four
+* fourteen
 * fresh
 * friend
 * frog
@@ -122,6 +131,7 @@
 * hospital
 * hot
 * hour
+* hundred
 * hungry
 * I
 * idea
@@ -167,9 +177,13 @@
 * next door
 * next to
 * niece
+* nine
+* nineteen
+* ninety
 * noisy
 * notebook
 * nurse
+* one
 * onion
 * our
 * ours
@@ -206,6 +220,9 @@
 * science
 * scientist
 * see
+* seven
+* seventeen
+* seventy
 * sharp
 * she
 * shirt
@@ -214,6 +231,9 @@
 * sick
 * singer
 * sister
+* six
+* sixteen
+* sixty
 * skirt
 * sleepy
 * slow
@@ -231,12 +251,16 @@
 * sweater
 * table
 * taxi
+* ten
 * test
 * their
 * theirs
 * they
 * thin
 * thirsty
+* thirteen
+* thirty
+* three
 * tired
 * today
 * tomorrow
@@ -245,7 +269,10 @@
 * train
 * tree
 * tulip
+* twelve
+* twenty
 * twin
+* two
 * umbrella
 * uncle
 * vacation
