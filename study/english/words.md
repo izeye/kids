@@ -66,9 +66,11 @@
 * egg
 * eight
 * eighteen
+* eighth
 * eighty
 * elephant
 * eleven
+* eleventh
 * empty
 * eraser
 * evening
@@ -84,7 +86,9 @@
 * fan
 * farmer
 * fifteen
+* fifth
 * firefighter
+* first
 * fishbowl
 * five
 * flag
@@ -94,6 +98,7 @@
 * forty
 * four
 * fourteen
+* fourth
 * fresh
 * friend
 * frog
@@ -180,6 +185,7 @@
 * nine
 * nineteen
 * ninety
+* ninth
 * noisy
 * notebook
 * nurse
@@ -219,9 +225,11 @@
 * school
 * science
 * scientist
+* second
 * see
 * seven
 * seventeen
+* seventh
 * seventy
 * sharp
 * she
@@ -233,6 +241,7 @@
 * sister
 * six
 * sixteen
+* sixth
 * sixty
 * skirt
 * sleepy
@@ -252,13 +261,17 @@
 * table
 * taxi
 * ten
+* tenth
 * test
 * their
 * theirs
 * they
 * thin
+* third
 * thirsty
 * thirteen
+* thirteenth
+* thirtieth
 * thirty
 * three
 * tired
@@ -269,7 +282,9 @@
 * train
 * tree
 * tulip
+* twelfth
 * twelve
+* twentieth
 * twenty
 * twin
 * two
