@@ -6,10 +6,12 @@
 * alone
 * American
 * angry
+* April
 * artist
 * at home
 * at night
 * at noon
+* August
 * aunt
 * baker
 * bathroom
@@ -48,6 +50,7 @@
 * dancer
 * dark
 * daughter
+* December
 * delicious
 * dentist
 * designer
@@ -85,6 +88,7 @@
 * famous
 * fan
 * farmer
+* February
 * fifteen
 * fifth
 * firefighter
@@ -144,7 +148,10 @@
 * inventor
 * it
 * its
+* January
 * Japan
+* July
+* June
 * kind
 * kitchen
 * kite
@@ -164,7 +171,9 @@
 * lovely
 * lucky
 * make
+* March
 * market
+* May
 * mine
 * mirror
 * money
@@ -188,7 +197,9 @@
 * ninth
 * noisy
 * notebook
+* November
 * nurse
+* October
 * one
 * onion
 * our
@@ -227,6 +238,7 @@
 * scientist
 * second
 * see
+* September
 * seven
 * seventeen
 * seventh
