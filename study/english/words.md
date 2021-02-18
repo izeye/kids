@@ -13,6 +13,7 @@
 * at noon
 * August
 * aunt
+* autumn
 * baker
 * bathroom
 * bear
@@ -84,6 +85,7 @@
 * excited
 * expensive
 * face
+* fall
 * family
 * famous
 * fan
@@ -104,6 +106,7 @@
 * fourteen
 * fourth
 * fresh
+* Friday
 * friend
 * frog
 * from here
@@ -176,6 +179,7 @@
 * May
 * mine
 * mirror
+* Monday
 * money
 * morning
 * mountain
@@ -231,6 +235,7 @@
 * rose
 * run
 * sad
+* Saturday
 * scarf
 * scary
 * school
@@ -263,12 +268,15 @@
 * socks
 * son
 * spider
+* spring
 * store
 * strange
 * street
 * strong
 * student
 * study
+* summer
+* Sunday
 * sweater
 * table
 * taxi
@@ -286,6 +294,7 @@
 * thirtieth
 * thirty
 * three
+* Thursday
 * tired
 * today
 * tomorrow
@@ -293,6 +302,7 @@
 * town
 * train
 * tree
+* Tuesday
 * tulip
 * twelfth
 * twelve
@@ -310,7 +320,9 @@
 * we
 * weak
 * wear
+* Wednesday
 * wet
+* winter
 * worried
 * writer
 * wrong
