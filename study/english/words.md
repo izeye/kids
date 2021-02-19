@@ -20,9 +20,12 @@
 * beautiful
 * bee
 * birthday
+* black
+* blue
 * boring
 * brave
 * bright
+* brown
 * bus driver
 * busy
 * buy
@@ -121,8 +124,11 @@
 * go shopping
 * go to
 * go to sleep
+* gold
 * grandmother
 * grape
+* gray
+* green
 * gym
 * hamburger
 * handsome
@@ -206,6 +212,7 @@
 * October
 * one
 * onion
+* orange
 * our
 * ours
 * outside
@@ -219,16 +226,19 @@
 * people
 * pet
 * pilot
+* pink
 * play basketball
 * playground
 * police officer
 * poor
 * popular
 * post office
+* purple
 * queen
 * quiet
 * rabbit
 * read
+* red
 * rich
 * ring
 * river
@@ -254,6 +264,7 @@
 * short
 * shy
 * sick
+* silver
 * singer
 * sister
 * six
@@ -314,6 +325,7 @@
 * uncle
 * vacation
 * vegetable
+* violet
 * walk
 * want
 * want to
@@ -322,10 +334,12 @@
 * wear
 * Wednesday
 * wet
+* white
 * winter
 * worried
 * writer
 * wrong
+* yellow
 * yesterday
 * you
 * young
