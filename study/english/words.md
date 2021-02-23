@@ -16,6 +16,7 @@
 * autumn
 * baker
 * bathroom
+* be born
 * bear
 * beautiful
 * bee
@@ -62,6 +63,7 @@
 * dentist
 * designer
 * difficult
+* dinner
 * dirty
 * doctor
 * dog
@@ -96,6 +98,7 @@
 * famous
 * fan
 * farmer
+* favorite
 * February
 * fifteen
 * fifth
@@ -287,6 +290,7 @@
 * son
 * spider
 * spring
+* spring
 * store
 * strange
 * street
@@ -334,6 +338,7 @@
 * vacation
 * vegetable
 * violet
+* visit
 * walk
 * want
 * want to
