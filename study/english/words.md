@@ -42,11 +42,14 @@
 * clean
 * close
 * closet
+* cloudy
 * coat
+* cold
 * cold
 * comic book
 * cook
 * cookie
+* cool
 * cool
 * cousin
 * cucumber
@@ -96,6 +99,7 @@
 * February
 * fifteen
 * fifth
+* fine
 * firefighter
 * first
 * fishbowl
@@ -147,6 +151,7 @@
 * homework
 * horse
 * hospital
+* hot
 * hot
 * hour
 * hundred
@@ -237,6 +242,7 @@
 * queen
 * quiet
 * rabbit
+* rainy
 * read
 * red
 * rich
@@ -275,6 +281,7 @@
 * sleepy
 * slow
 * smart
+* snowy
 * soccer player
 * socks
 * son
@@ -288,6 +295,7 @@
 * study
 * summer
 * Sunday
+* sunny
 * sweater
 * table
 * taxi
@@ -329,12 +337,14 @@
 * walk
 * want
 * want to
+* warm
 * we
 * weak
 * wear
 * Wednesday
 * wet
 * white
+* windy
 * winter
 * worried
 * writer
