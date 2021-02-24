@@ -100,6 +100,7 @@
 * farmer
 * favorite
 * February
+* field trip
 * fifteen
 * fifth
 * fine
@@ -127,6 +128,7 @@
 * giraffe
 * girl
 * give
+* glasses
 * gloves
 * go shopping
 * go to
@@ -302,10 +304,13 @@
 * sunny
 * sweater
 * table
+* take a shower
+* take an airplane
 * taxi
 * ten
 * tenth
 * test
+* theater
 * their
 * theirs
 * they
