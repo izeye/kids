@@ -15,6 +15,7 @@
 * aunt
 * autumn
 * baker
+* basket
 * bathroom
 * be born
 * bear
@@ -121,6 +122,7 @@
 * friend
 * frog
 * from here
+* fruit
 * full
 * funny
 * get up
@@ -220,6 +222,7 @@
 * November
 * nurse
 * October
+* office
 * one
 * onion
 * orange
@@ -293,6 +296,8 @@
 * spider
 * spring
 * spring
+* stand
+* station
 * store
 * strange
 * street
