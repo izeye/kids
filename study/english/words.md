@@ -15,6 +15,7 @@
 * aunt
 * autumn
 * baker
+* bakery
 * basket
 * bathroom
 * be born
@@ -23,9 +24,12 @@
 * bee
 * birthday
 * black
+* blow
 * blue
+* bookshelf
 * boring
 * brave
+* bridge
 * bright
 * brown
 * bus driver
@@ -42,10 +46,12 @@
 * church
 * classmate
 * clean
+* climb
 * close
 * closet
 * cloudy
 * coat
+* coin
 * cold
 * cold
 * comic book
@@ -71,6 +77,7 @@
 * dolphin
 * drawer
 * drink
+* drive
 * dry
 * duck
 * Earth
@@ -151,6 +158,7 @@
 * hen
 * her
 * hers
+* hide
 * high
 * his
 * history
@@ -232,6 +240,7 @@
 * painter
 * pants
 * parents
+* park
 * pass
 * pencil
 * pencil case
@@ -253,6 +262,7 @@
 * rainy
 * read
 * red
+* restaurant
 * rich
 * ring
 * river
@@ -296,7 +306,9 @@
 * spider
 * spring
 * spring
+* stair
 * stand
+* start
 * station
 * store
 * strange
@@ -327,6 +339,7 @@
 * thirtieth
 * thirty
 * three
+* throw
 * Thursday
 * tired
 * today
@@ -346,6 +359,7 @@
 * umbrella
 * uncle
 * vacation
+* vase
 * vegetable
 * violet
 * visit
