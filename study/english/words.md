@@ -16,6 +16,7 @@
 * autumn
 * baker
 * bakery
+* balloon
 * basket
 * bathroom
 * be born
@@ -41,6 +42,7 @@
 * chair
 * cheap
 * chicken
+* children
 * China
 * chocolate
 * church
@@ -252,10 +254,12 @@
 * play basketball
 * playground
 * police officer
+* pond
 * poor
 * popular
 * post office
 * purple
+* purse
 * queen
 * quiet
 * rabbit
