@@ -1,4 +1,6 @@
 # Words
+* a loaf of bread
+* a minute ago
 * actor
 * after school
 * afternoon
@@ -33,9 +35,11 @@
 * bridge
 * bright
 * brown
+* brush
 * bus driver
 * busy
 * buy
+* calendar
 * cap
 * careful
 * carrot
@@ -51,6 +55,7 @@
 * climb
 * close
 * closet
+* clothes
 * cloudy
 * coat
 * coin
@@ -80,6 +85,7 @@
 * drawer
 * drink
 * drive
+* drugstore
 * dry
 * duck
 * Earth
@@ -104,6 +110,7 @@
 * expensive
 * face
 * fall
+* fallen leaf
 * family
 * famous
 * fan
@@ -128,6 +135,7 @@
 * fourth
 * fresh
 * Friday
+* fridge
 * friend
 * frog
 * from here
@@ -189,6 +197,7 @@
 * know
 * Korea
 * lake
+* lamp
 * last night
 * late
 * lazy
@@ -197,6 +206,7 @@
 * like
 * lion
 * live in
+* living room
 * long
 * loud
 * lovely
@@ -205,6 +215,7 @@
 * March
 * market
 * May
+* meat
 * mine
 * mirror
 * Monday
@@ -241,6 +252,7 @@
 * outside
 * painter
 * pants
+* paper
 * parents
 * park
 * pass
@@ -251,6 +263,7 @@
 * pet
 * pilot
 * pink
+* plate
 * play basketball
 * playground
 * police officer
@@ -288,6 +301,7 @@
 * seventy
 * sharp
 * she
+* sheet
 * shirt
 * short
 * shy
