@@ -45,6 +45,7 @@
 * carrot
 * chair
 * cheap
+* chick
 * chicken
 * children
 * China
@@ -263,6 +264,7 @@
 * pet
 * pilot
 * pink
+* plant
 * plate
 * play basketball
 * playground
@@ -283,7 +285,9 @@
 * rich
 * ring
 * river
+* roof
 * rose
+* ruler
 * run
 * sad
 * Saturday
