@@ -40,6 +40,7 @@
 * busy
 * buy
 * calendar
+* candy
 * cap
 * careful
 * carrot
@@ -106,6 +107,7 @@
 * every day
 * every morning
 * every week
+* exam
 * excellent
 * excited
 * expensive
@@ -231,6 +233,7 @@
 * neighbor
 * nephew
 * nervous
+* nest
 * new
 * next door
 * next to
@@ -273,6 +276,7 @@
 * poor
 * popular
 * post office
+* problem
 * purple
 * purse
 * queen
@@ -285,6 +289,7 @@
 * rich
 * ring
 * river
+* rock
 * roof
 * rose
 * ruler
