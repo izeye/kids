@@ -51,6 +51,7 @@
 * children
 * China
 * chocolate
+* choose
 * church
 * classmate
 * clean
@@ -68,6 +69,7 @@
 * cookie
 * cool
 * cool
+* correct
 * cousin
 * cucumber
 * curious
@@ -75,10 +77,12 @@
 * dark
 * daughter
 * December
+* deep
 * delicious
 * dentist
 * designer
 * difficult
+* diligent
 * dinner
 * dirty
 * doctor
@@ -110,6 +114,7 @@
 * exam
 * excellent
 * excited
+* exciting
 * expensive
 * face
 * fall
@@ -124,6 +129,7 @@
 * fifteen
 * fifth
 * fine
+* finger
 * firefighter
 * first
 * fishbowl
@@ -167,6 +173,7 @@
 * have
 * he
 * healthy
+* heart
 * heavy
 * hen
 * her
@@ -175,6 +182,7 @@
 * high
 * his
 * history
+* hold
 * holiday
 * homework
 * horse
@@ -276,6 +284,7 @@
 * poor
 * popular
 * post office
+* princess
 * problem
 * purple
 * purse
@@ -284,6 +293,7 @@
 * rabbit
 * rainy
 * read
+* receive
 * red
 * restaurant
 * rich
@@ -329,10 +339,12 @@
 * snowy
 * soccer player
 * socks
+* solve
 * son
 * spider
 * spring
 * spring
+* square
 * stair
 * stand
 * start
@@ -383,6 +395,7 @@
 * twenty
 * twin
 * two
+* ugly
 * umbrella
 * uncle
 * vacation
