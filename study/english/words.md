@@ -2,6 +2,7 @@
 * a loaf of bread
 * a minute ago
 * actor
+* address
 * after school
 * afternoon
 * album
@@ -85,6 +86,7 @@
 * diligent
 * dinner
 * dirty
+* dish
 * doctor
 * dog
 * dolphin
@@ -166,6 +168,7 @@
 * grape
 * gray
 * green
+* ground
 * gym
 * hamburger
 * handsome
@@ -185,6 +188,7 @@
 * hold
 * holiday
 * homework
+* honest
 * horse
 * hospital
 * hot
@@ -252,6 +256,7 @@
 * ninth
 * noisy
 * notebook
+* novel
 * November
 * nurse
 * October
@@ -280,6 +285,7 @@
 * play basketball
 * playground
 * police officer
+* polite
 * pond
 * poor
 * popular
@@ -289,6 +295,7 @@
 * purple
 * purse
 * queen
+* question
 * quiet
 * rabbit
 * rainy
@@ -297,6 +304,7 @@
 * red
 * restaurant
 * rich
+* right
 * ring
 * river
 * rock
@@ -358,6 +366,7 @@
 * summer
 * Sunday
 * sunny
+* surprising
 * sweater
 * table
 * take a shower
@@ -380,6 +389,7 @@
 * three
 * throw
 * Thursday
+* tip
 * tired
 * today
 * tomorrow
@@ -398,6 +408,7 @@
 * ugly
 * umbrella
 * uncle
+* useful
 * vacation
 * vase
 * vegetable
@@ -407,6 +418,7 @@
 * want
 * want to
 * warm
+* watermelon
 * we
 * weak
 * wear
