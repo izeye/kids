@@ -11,6 +11,7 @@
 * angry
 * April
 * artist
+* Asia
 * at home
 * at night
 * at noon
@@ -117,6 +118,7 @@
 * excellent
 * excited
 * exciting
+* exercise
 * expensive
 * face
 * fall
@@ -169,6 +171,7 @@
 * gray
 * green
 * ground
+* grow
 * gym
 * hamburger
 * handsome
@@ -199,6 +202,7 @@
 * I
 * idea
 * in class
+* insect
 * inventor
 * it
 * its
@@ -394,6 +398,7 @@
 * today
 * tomorrow
 * tonight
+* tooth
 * town
 * train
 * tree
