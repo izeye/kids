@@ -109,6 +109,7 @@
 * eleven
 * eleventh
 * empty
+* enjoy
 * eraser
 * evening
 * every day
@@ -141,6 +142,7 @@
 * flag
 * floor
 * flower
+* follow
 * fork
 * forty
 * four
@@ -306,6 +308,7 @@
 * read
 * receive
 * red
+* respect
 * restaurant
 * rich
 * right
@@ -325,6 +328,7 @@
 * scientist
 * second
 * see
+* sell
 * September
 * seven
 * seventeen
@@ -419,6 +423,7 @@
 * vegetable
 * violet
 * visit
+* volunteer
 * walk
 * want
 * want to
