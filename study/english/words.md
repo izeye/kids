@@ -33,6 +33,7 @@
 * blue
 * bookshelf
 * boring
+* bother
 * brave
 * bridge
 * bright
@@ -201,6 +202,7 @@
 * hour
 * hundred
 * hungry
+* husband
 * I
 * idea
 * in class
@@ -237,8 +239,10 @@
 * market
 * May
 * meat
+* meet
 * mine
 * mirror
+* miss
 * Monday
 * money
 * morning
@@ -308,6 +312,7 @@
 * read
 * receive
 * red
+* repair
 * respect
 * restaurant
 * rich
