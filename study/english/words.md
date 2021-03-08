@@ -5,6 +5,7 @@
 * address
 * after school
 * afternoon
+* airport
 * album
 * alone
 * American
@@ -27,6 +28,7 @@
 * bear
 * beautiful
 * bee
+* believe
 * birthday
 * black
 * blow
@@ -47,6 +49,8 @@
 * cap
 * careful
 * carrot
+* catch
+* celebrate
 * chair
 * cheap
 * chick
@@ -140,6 +144,7 @@
 * first
 * fishbowl
 * five
+* fix
 * flag
 * floor
 * flower
@@ -156,6 +161,7 @@
 * frog
 * from here
 * fruit
+* fry
 * full
 * funny
 * get up
@@ -217,12 +223,14 @@
 * kind
 * kitchen
 * kite
+* knock
 * know
 * Korea
 * lake
 * lamp
 * last night
 * late
+* laugh
 * lazy
 * lemon
 * library
@@ -300,6 +308,7 @@
 * poor
 * popular
 * post office
+* practice
 * princess
 * problem
 * purple
@@ -422,6 +431,7 @@
 * ugly
 * umbrella
 * uncle
+* understand
 * useful
 * vacation
 * vase
