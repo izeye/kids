@@ -70,11 +70,9 @@
 * coat
 * coin
 * cold
-* cold
 * comic book
 * cook
 * cookie
-* cool
 * cool
 * correct
 * cousin
@@ -203,7 +201,6 @@
 * honest
 * horse
 * hospital
-* hot
 * hot
 * hour
 * hundred
@@ -372,7 +369,6 @@
 * solve
 * son
 * spider
-* spring
 * spring
 * square
 * stair
