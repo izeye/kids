@@ -48,7 +48,9 @@
 * candy
 * cap
 * careful
+* carefully
 * carrot
+* carry
 * catch
 * celebrate
 * chair
@@ -218,6 +220,7 @@
 * July
 * June
 * kind
+* kiss
 * kitchen
 * kite
 * knock
@@ -348,6 +351,7 @@
 * sharp
 * she
 * sheet
+* shine
 * shirt
 * short
 * shy
@@ -439,6 +443,7 @@
 * want
 * want to
 * warm
+* watch
 * watermelon
 * we
 * weak
