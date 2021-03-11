@@ -23,6 +23,7 @@
 * bakery
 * balloon
 * basket
+* bat
 * bathroom
 * be born
 * bear
@@ -54,6 +55,7 @@
 * catch
 * celebrate
 * chair
+* change clothes
 * cheap
 * chick
 * chicken
@@ -61,6 +63,7 @@
 * China
 * chocolate
 * choose
+* chopsticks
 * church
 * classmate
 * clean
@@ -77,17 +80,20 @@
 * cookie
 * cool
 * correct
+* country
 * cousin
 * cucumber
 * curious
 * dancer
 * dark
 * daughter
+* daytime
 * December
 * deep
 * delicious
 * dentist
 * designer
+* dictionary
 * difficult
 * diligent
 * dinner
@@ -143,6 +149,7 @@
 * firefighter
 * first
 * fishbowl
+* fit
 * five
 * fix
 * flag
@@ -199,6 +206,7 @@
 * history
 * hold
 * holiday
+* hometown
 * homework
 * honest
 * horse
@@ -217,6 +225,7 @@
 * its
 * January
 * Japan
+* join
 * July
 * June
 * kind
@@ -231,6 +240,7 @@
 * last night
 * late
 * laugh
+* lay
 * lazy
 * lemon
 * library
@@ -242,9 +252,11 @@
 * loud
 * lovely
 * lucky
+* machine
 * make
 * March
 * market
+* max with
 * May
 * meat
 * meet
@@ -265,6 +277,7 @@
 * nervous
 * nest
 * new
+* newspaper
 * next door
 * next to
 * niece
@@ -372,6 +385,7 @@
 * socks
 * solve
 * son
+* spend
 * spider
 * spring
 * square
@@ -452,6 +466,7 @@
 * wet
 * white
 * windy
+* wing
 * winter
 * worried
 * writer
