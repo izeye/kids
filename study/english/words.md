@@ -13,6 +13,7 @@
 * April
 * artist
 * Asia
+* ask
 * at home
 * at night
 * at noon
@@ -29,6 +30,7 @@
 * bear
 * beautiful
 * bee
+* beetle
 * believe
 * birthday
 * black
@@ -42,8 +44,10 @@
 * bright
 * brown
 * brush
+* build
 * bus driver
 * busy
+* butterfly
 * buy
 * calendar
 * candy
@@ -76,6 +80,7 @@
 * coin
 * cold
 * comic book
+* contest
 * cook
 * cookie
 * cool
@@ -140,12 +145,14 @@
 * fan
 * farmer
 * favorite
+* feather
 * February
 * field trip
 * fifteen
 * fifth
 * fine
 * finger
+* finish
 * firefighter
 * first
 * fishbowl
@@ -253,12 +260,14 @@
 * lovely
 * lucky
 * machine
+* magazine
 * make
 * March
 * market
 * max with
 * May
 * meat
+* medicine
 * meet
 * mine
 * mirror
@@ -267,6 +276,7 @@
 * money
 * morning
 * mountain
+* move around
 * movie
 * museum
 * musician
@@ -380,16 +390,19 @@
 * sleepy
 * slow
 * smart
+* sneakers
 * snowy
 * soccer player
 * socks
 * solve
 * son
+* South Pole
 * spend
 * spider
 * spring
 * square
 * stair
+* stamp
 * stand
 * start
 * station
@@ -428,6 +441,7 @@
 * tip
 * tired
 * today
+* together
 * tomorrow
 * tonight
 * tooth
@@ -446,6 +460,7 @@
 * umbrella
 * uncle
 * understand
+* university
 * useful
 * vacation
 * vase
