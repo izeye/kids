@@ -38,6 +38,7 @@
 * blue
 * bookshelf
 * boring
+* boss
 * bother
 * brave
 * bridge
@@ -61,6 +62,7 @@
 * chair
 * change clothes
 * cheap
+* check
 * chick
 * chicken
 * children
@@ -99,6 +101,7 @@
 * dentist
 * designer
 * dictionary
+* die
 * difficult
 * diligent
 * dinner
@@ -110,6 +113,7 @@
 * drawer
 * drink
 * drive
+* drop
 * drugstore
 * dry
 * duck
@@ -220,8 +224,11 @@
 * hospital
 * hot
 * hour
+* hug
 * hundred
 * hungry
+* hurry
+* hurt
 * husband
 * I
 * idea
@@ -256,11 +263,13 @@
 * live in
 * living room
 * long
+* look around
 * loud
 * lovely
 * lucky
 * machine
 * magazine
+* mail
 * make
 * March
 * market
@@ -274,6 +283,7 @@
 * miss
 * Monday
 * money
+* mop
 * morning
 * mountain
 * move around
@@ -308,6 +318,7 @@
 * our
 * ours
 * outside
+* paint
 * painter
 * pants
 * paper
@@ -321,6 +332,7 @@
 * pet
 * pilot
 * pink
+* plan
 * plant
 * plate
 * play basketball
@@ -347,6 +359,7 @@
 * repair
 * respect
 * restaurant
+* return
 * rich
 * right
 * ring
@@ -406,6 +419,7 @@
 * stand
 * start
 * station
+* stay
 * store
 * strange
 * street
@@ -448,6 +462,7 @@
 * town
 * train
 * tree
+* try
 * Tuesday
 * tulip
 * twelfth
