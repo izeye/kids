@@ -11,6 +11,7 @@
 * American
 * angry
 * April
+* arrive
 * artist
 * Asia
 * ask
@@ -38,6 +39,7 @@
 * blue
 * bookshelf
 * boring
+* borrow
 * boss
 * bother
 * brave
@@ -107,11 +109,13 @@
 * diligent
 * dinner
 * dirty
+* discover
 * dish
 * doctor
 * dog
 * dolphin
 * drawer
+* dream
 * drink
 * drive
 * drop
@@ -427,6 +431,7 @@
 * spider
 * spring
 * square
+* stadium
 * stair
 * stamp
 * stand
