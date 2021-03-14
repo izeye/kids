@@ -47,6 +47,7 @@
 * brush
 * build
 * bus driver
+* bus stop
 * busy
 * butterfly
 * buy
@@ -154,6 +155,7 @@
 * field trip
 * fifteen
 * fifth
+* final match
 * fine
 * finger
 * finish
@@ -204,6 +206,7 @@
 * handsome
 * hard
 * have
+* have fun
 * he
 * healthy
 * heart
@@ -234,6 +237,7 @@
 * idea
 * in class
 * insect
+* invent
 * inventor
 * it
 * its
@@ -256,6 +260,7 @@
 * laugh
 * lay
 * lazy
+* leave
 * lemon
 * library
 * like
@@ -325,6 +330,7 @@
 * parents
 * park
 * pass
+* peach
 * pencil
 * pencil case
 * penguin
@@ -332,11 +338,13 @@
 * pet
 * pilot
 * pink
+* place
 * plan
 * plant
 * plate
 * play basketball
 * playground
+* pocket
 * police officer
 * polite
 * pond
@@ -348,6 +356,7 @@
 * problem
 * purple
 * purse
+* put on
 * queen
 * question
 * quiet
@@ -361,6 +370,7 @@
 * restaurant
 * return
 * rich
+* ride on
 * right
 * ring
 * river
@@ -377,6 +387,7 @@
 * science
 * scientist
 * second
+* secret
 * see
 * sell
 * September
@@ -390,6 +401,7 @@
 * shine
 * shirt
 * short
+* shrimp
 * shy
 * sick
 * silver
@@ -408,6 +420,7 @@
 * soccer player
 * socks
 * solve
+* someone
 * son
 * South Pole
 * spend
@@ -435,6 +448,7 @@
 * take a shower
 * take an airplane
 * taxi
+* telescope
 * ten
 * tenth
 * test
