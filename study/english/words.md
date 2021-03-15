@@ -156,6 +156,7 @@
 * favorite
 * feather
 * February
+* fence
 * field trip
 * fifteen
 * fifth
@@ -188,6 +189,7 @@
 * fry
 * full
 * funny
+* gate
 * get up
 * gift
 * giraffe
@@ -206,6 +208,7 @@
 * ground
 * grow
 * gym
+* hairpin
 * hamburger
 * handsome
 * hard
@@ -321,6 +324,7 @@
 * nurse
 * October
 * office
+* on time
 * one
 * onion
 * orange
@@ -446,6 +450,7 @@
 * study
 * summer
 * Sunday
+* sunflower
 * sunny
 * surprising
 * sweater
