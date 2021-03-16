@@ -108,6 +108,7 @@
 * difficult
 * diligent
 * dinner
+* director
 * dirty
 * discover
 * dish
@@ -250,6 +251,7 @@
 * its
 * January
 * Japan
+* job
 * join
 * July
 * June
@@ -287,6 +289,7 @@
 * market
 * max with
 * May
+* mean
 * meat
 * medicine
 * meet
@@ -398,6 +401,7 @@
 * secret
 * see
 * sell
+* sentence
 * September
 * seven
 * seventeen
@@ -430,6 +434,7 @@
 * solve
 * someone
 * son
+* sound
 * South Pole
 * spend
 * spider
