@@ -28,6 +28,7 @@
 * bat
 * bathroom
 * be born
+* be full of
 * bear
 * beautiful
 * bee
@@ -190,6 +191,7 @@
 * fry
 * full
 * funny
+* garage
 * gate
 * get up
 * gift
@@ -255,6 +257,7 @@
 * join
 * July
 * June
+* jungle
 * kind
 * kiss
 * kitchen
@@ -456,6 +459,7 @@
 * summer
 * Sunday
 * sunflower
+* sunlight
 * sunny
 * surprising
 * sweater
