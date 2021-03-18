@@ -124,6 +124,7 @@
 * drugstore
 * dry
 * duck
+* dust
 * Earth
 * easy
 * eat
@@ -200,6 +201,7 @@
 * give
 * glasses
 * gloves
+* go hiking
 * go shopping
 * go to
 * go to sleep
@@ -439,6 +441,7 @@
 * son
 * sound
 * South Pole
+* special
 * spend
 * spider
 * spring
@@ -465,6 +468,7 @@
 * sweater
 * table
 * take a shower
+* take a taxi
 * take an airplane
 * taxi
 * telescope
@@ -492,6 +496,7 @@
 * tomorrow
 * tonight
 * tooth
+* tower
 * town
 * train
 * tree
