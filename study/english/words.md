@@ -48,6 +48,7 @@
 * bright
 * brown
 * brush
+* brush one's teeth
 * build
 * bus driver
 * bus stop
@@ -341,6 +342,7 @@
 * outside
 * paint
 * painter
+* palace
 * pants
 * paper
 * parents
@@ -368,6 +370,7 @@
 * popular
 * post office
 * practice
+* president
 * princess
 * problem
 * purple
@@ -428,6 +431,7 @@
 * sixteen
 * sixth
 * sixty
+* skin
 * skirt
 * sleepy
 * slow
@@ -464,6 +468,7 @@
 * sunflower
 * sunlight
 * sunny
+* surf
 * surprising
 * sweater
 * table
