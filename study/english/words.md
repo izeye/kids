@@ -68,6 +68,7 @@
 * change clothes
 * cheap
 * check
+* cheerfully
 * chick
 * chicken
 * children
@@ -119,6 +120,7 @@
 * dolphin
 * drawer
 * dream
+* dress up
 * drink
 * drive
 * drop
@@ -405,6 +407,7 @@
 * school
 * science
 * scientist
+* scream
 * second
 * secret
 * see
@@ -440,6 +443,7 @@
 * snowy
 * soccer player
 * socks
+* softly
 * solve
 * someone
 * son
@@ -544,6 +548,7 @@
 * worried
 * writer
 * wrong
+* yawn
 * yellow
 * yesterday
 * you
