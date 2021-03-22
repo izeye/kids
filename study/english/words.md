@@ -179,6 +179,7 @@
 * flag
 * floor
 * flower
+* fluently
 * follow
 * fork
 * forty
@@ -301,6 +302,7 @@
 * meat
 * medicine
 * meet
+* messy
 * mine
 * mirror
 * miss
@@ -382,6 +384,7 @@
 * question
 * quiet
 * rabbit
+* raincoat
 * rainy
 * read
 * receive
@@ -424,6 +427,7 @@
 * shine
 * shirt
 * short
+* shout
 * shrimp
 * shy
 * sick
