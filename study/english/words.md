@@ -1,6 +1,7 @@
 # Words
 * a loaf of bread
 * a minute ago
+* act
 * actor
 * address
 * after school
@@ -203,6 +204,7 @@
 * giraffe
 * girl
 * give
+* give one's speech
 * glasses
 * gloves
 * go hiking
@@ -377,6 +379,7 @@
 * president
 * princess
 * problem
+* proud
 * purple
 * purse
 * put on
@@ -459,6 +462,7 @@
 * spring
 * square
 * stadium
+* stage
 * stair
 * stamp
 * stand
@@ -516,6 +520,7 @@
 * try
 * Tuesday
 * tulip
+* turtle
 * twelfth
 * twelve
 * twentieth
