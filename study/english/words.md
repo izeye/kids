@@ -45,6 +45,7 @@
 * boss
 * bother
 * brave
+* breathe
 * bridge
 * bright
 * brown
@@ -119,6 +120,7 @@
 * doctor
 * dog
 * dolphin
+* donate
 * drawer
 * dream
 * dress up
@@ -304,6 +306,7 @@
 * meat
 * medicine
 * meet
+* meeting
 * messy
 * mine
 * mirror
@@ -393,6 +396,7 @@
 * receive
 * red
 * repair
+* report card
 * respect
 * restaurant
 * return
@@ -413,6 +417,7 @@
 * school
 * science
 * scientist
+* score
 * scream
 * second
 * secret
