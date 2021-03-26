@@ -2,8 +2,10 @@
 * a loaf of bread
 * a minute ago
 * act
+* active
 * actor
 * address
+* advice
 * after school
 * afternoon
 * airport
@@ -280,6 +282,7 @@
 * Korea
 * lake
 * lamp
+* land
 * last night
 * late
 * laugh
@@ -366,6 +369,7 @@
 * pencil case
 * penguin
 * people
+* perform
 * pet
 * pilot
 * pink
@@ -414,6 +418,7 @@
 * rose
 * ruler
 * run
+* run away
 * sad
 * Saturday
 * scarf
