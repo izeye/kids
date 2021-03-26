@@ -107,6 +107,7 @@
 * deep
 * delicious
 * dentist
+* desert
 * designer
 * dictionary
 * die
@@ -155,6 +156,7 @@
 * exciting
 * exercise
 * expensive
+* explorer
 * face
 * fall
 * fallen leaf
@@ -184,6 +186,7 @@
 * flower
 * fluently
 * follow
+* forest
 * fork
 * forty
 * four
@@ -326,6 +329,7 @@
 * nephew
 * nervous
 * nest
+* never
 * new
 * newspaper
 * next door
@@ -538,6 +542,7 @@
 * understand
 * university
 * useful
+* usually
 * vacation
 * vase
 * vegetable
