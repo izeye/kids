@@ -14,6 +14,7 @@
 * American
 * angry
 * April
+* around the world
 * arrive
 * artist
 * Asia
@@ -41,11 +42,13 @@
 * black
 * blow
 * blue
+* board
 * bookshelf
 * boring
 * borrow
 * boss
 * bother
+* bowl
 * brave
 * breathe
 * bridge
@@ -53,6 +56,7 @@
 * brown
 * brush
 * brush one's teeth
+* bucket
 * build
 * bus driver
 * bus stop
@@ -97,6 +101,7 @@
 * cookie
 * cool
 * correct
+* count
 * country
 * cousin
 * cucumber
@@ -188,6 +193,7 @@
 * flower
 * fluently
 * follow
+* foreigner
 * forest
 * fork
 * forty
@@ -206,6 +212,7 @@
 * funny
 * garage
 * gate
+* gather
 * get up
 * gift
 * giraffe
@@ -261,6 +268,7 @@
 * I
 * idea
 * in class
+* in front of
 * insect
 * invent
 * inventor
@@ -400,6 +408,7 @@
 * rabbit
 * raincoat
 * rainy
+* raise
 * read
 * receive
 * red
@@ -470,6 +479,7 @@
 * son
 * sound
 * South Pole
+* space
 * special
 * spend
 * spider
@@ -498,6 +508,7 @@
 * surprising
 * sweater
 * table
+* take
 * take a shower
 * take a taxi
 * take an airplane
@@ -546,6 +557,7 @@
 * uncle
 * understand
 * university
+* use
 * useful
 * usually
 * vacation
@@ -566,6 +578,7 @@
 * Wednesday
 * wet
 * white
+* window
 * windy
 * wing
 * winter
