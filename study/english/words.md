@@ -33,6 +33,7 @@
 * bathroom
 * be born
 * be full of
+* be good for
 * bear
 * beautiful
 * bee
@@ -53,6 +54,7 @@
 * breathe
 * bridge
 * bright
+* bring
 * brown
 * brush
 * brush one's teeth
@@ -63,6 +65,7 @@
 * busy
 * butterfly
 * buy
+* cage
 * calendar
 * candy
 * cap
@@ -193,6 +196,7 @@
 * flower
 * fluently
 * follow
+* for breakfast
 * foreigner
 * forest
 * fork
@@ -211,6 +215,8 @@
 * full
 * funny
 * garage
+* garlic
+* gas
 * gate
 * gather
 * get up
@@ -240,6 +246,7 @@
 * have
 * have fun
 * he
+* health
 * healthy
 * heart
 * heavy
@@ -276,11 +283,13 @@
 * its
 * January
 * Japan
+* jar
 * job
 * join
 * July
 * June
 * jungle
+* just
 * kind
 * kiss
 * kitchen
@@ -377,17 +386,20 @@
 * pencil case
 * penguin
 * people
+* pepper
 * perform
 * pet
 * pilot
 * pink
 * place
 * plan
+* planet
 * plant
 * plate
 * play basketball
 * playground
 * pocket
+* pole
 * police officer
 * polite
 * pond
@@ -474,6 +486,7 @@
 * soccer player
 * socks
 * softly
+* solar system
 * solve
 * someone
 * son
