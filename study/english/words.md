@@ -122,6 +122,7 @@
 * dictionary
 * die
 * difficult
+* dig
 * diligent
 * dinner
 * director
@@ -274,9 +275,11 @@
 * husband
 * I
 * idea
+* important
 * in class
 * in front of
 * insect
+* interesting
 * invent
 * inventor
 * it
@@ -534,6 +537,7 @@
 * their
 * theirs
 * they
+* thick
 * thin
 * third
 * thirsty
