@@ -420,7 +420,9 @@
 * queen
 * question
 * quiet
+* quietly
 * rabbit
+* race
 * raincoat
 * rainy
 * raise
@@ -599,6 +601,7 @@
 * windy
 * wing
 * winter
+* wise
 * worried
 * writer
 * wrong
