@@ -297,6 +297,7 @@
 * kiss
 * kitchen
 * kite
+* kitten
 * knock
 * know
 * Korea
@@ -417,6 +418,7 @@
 * purple
 * purse
 * put on
+* puzzle
 * queen
 * question
 * quiet
@@ -595,6 +597,7 @@
 * weak
 * wear
 * Wednesday
+* weigh
 * wet
 * white
 * window
@@ -602,6 +605,7 @@
 * wing
 * winter
 * wise
+* wonderful
 * worried
 * writer
 * wrong
