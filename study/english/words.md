@@ -54,6 +54,7 @@
 * breathe
 * bridge
 * bright
+* brightly
 * bring
 * brown
 * brush
@@ -77,6 +78,7 @@
 * celebrate
 * chair
 * change clothes
+* character
 * cheap
 * check
 * cheerfully
@@ -110,6 +112,7 @@
 * cucumber
 * curious
 * dancer
+* dangerous
 * dark
 * daughter
 * daytime
@@ -327,6 +330,7 @@
 * make
 * March
 * market
+* math
 * max with
 * May
 * mean
@@ -368,6 +372,7 @@
 * novel
 * November
 * nurse
+* ocean
 * October
 * office
 * on time
