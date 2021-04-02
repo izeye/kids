@@ -25,6 +25,7 @@
 * August
 * aunt
 * autumn
+* bake
 * baker
 * bakery
 * balloon
@@ -76,6 +77,7 @@
 * carry
 * catch
 * celebrate
+* cell phone
 * chair
 * change clothes
 * character
@@ -100,6 +102,7 @@
 * coat
 * coin
 * cold
+* comfortable
 * comic book
 * contest
 * cook
@@ -286,6 +289,7 @@
 * invent
 * inventor
 * it
+* item
 * its
 * January
 * Japan
