@@ -25,6 +25,7 @@
 * August
 * aunt
 * autumn
+* away
 * bake
 * baker
 * bakery
@@ -412,6 +413,7 @@
 * play basketball
 * playground
 * pocket
+* point
 * pole
 * police officer
 * polite
@@ -538,6 +540,7 @@
 * sweater
 * table
 * take
+* take a picture
 * take a shower
 * take a taxi
 * take an airplane
@@ -609,6 +612,7 @@
 * weigh
 * wet
 * white
+* win
 * window
 * windy
 * wing
