@@ -114,6 +114,7 @@
 * country
 * cousin
 * cucumber
+* cure
 * curious
 * dancer
 * dangerous
@@ -236,6 +237,7 @@
 * glasses
 * gloves
 * go hiking
+* go out
 * go shopping
 * go to
 * go to sleep
@@ -443,6 +445,7 @@
 * receive
 * red
 * repair
+* reply to
 * report card
 * respect
 * restaurant
@@ -585,6 +588,7 @@
 * twenty
 * twin
 * two
+* typhoon
 * ugly
 * umbrella
 * uncle
@@ -596,6 +600,7 @@
 * vacation
 * vase
 * vegetable
+* vet
 * violet
 * visit
 * volunteer
