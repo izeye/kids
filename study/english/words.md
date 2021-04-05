@@ -1,6 +1,7 @@
 # Words
 * a loaf of bread
 * a minute ago
+* accident
 * act
 * active
 * actor
@@ -13,6 +14,7 @@
 * alone
 * American
 * angry
+* appear
 * April
 * around the world
 * arrive
@@ -252,6 +254,7 @@
 * hairpin
 * hamburger
 * handsome
+* happen
 * hard
 * have
 * have fun
@@ -458,6 +461,7 @@
 * rock
 * roof
 * rose
+* rule
 * ruler
 * run
 * run away
@@ -604,6 +608,7 @@
 * violet
 * visit
 * volunteer
+* wake up
 * walk
 * want
 * want to
