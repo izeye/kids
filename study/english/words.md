@@ -107,6 +107,7 @@
 * cold
 * comfortable
 * comic book
+* contact
 * contest
 * cook
 * cookie
@@ -239,6 +240,7 @@
 * glasses
 * gloves
 * go hiking
+* go on a picnic
 * go out
 * go shopping
 * go to
@@ -290,6 +292,7 @@
 * important
 * in class
 * in front of
+* in the future
 * insect
 * interesting
 * invent
@@ -467,6 +470,7 @@
 * run away
 * sad
 * Saturday
+* say sorry to
 * scarf
 * scary
 * school
@@ -551,6 +555,7 @@
 * take a shower
 * take a taxi
 * take an airplane
+* take care of
 * taxi
 * telescope
 * ten
