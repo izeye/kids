@@ -127,6 +127,7 @@
 * December
 * deep
 * delicious
+* deliver
 * dentist
 * desert
 * designer
@@ -186,6 +187,7 @@
 * famous
 * fan
 * farmer
+* fasten
 * favorite
 * feather
 * February
@@ -295,8 +297,10 @@
 * in the future
 * insect
 * interesting
+* introduce
 * invent
 * inventor
+* island
 * it
 * item
 * its
@@ -478,6 +482,7 @@
 * scientist
 * score
 * scream
+* seatbelt
 * second
 * secret
 * see
