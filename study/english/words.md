@@ -119,6 +119,7 @@
 * cucumber
 * cure
 * curious
+* customer
 * dancer
 * dangerous
 * dark
@@ -300,6 +301,7 @@
 * introduce
 * invent
 * inventor
+* invite
 * island
 * it
 * item
@@ -355,6 +357,7 @@
 * medicine
 * meet
 * meeting
+* melt
 * messy
 * mine
 * mirror
@@ -607,6 +610,7 @@
 * umbrella
 * uncle
 * understand
+* uniform
 * university
 * use
 * useful
@@ -618,6 +622,7 @@
 * violet
 * visit
 * volunteer
+* volunteer work
 * wake up
 * walk
 * want
