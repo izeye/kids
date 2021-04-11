@@ -72,6 +72,7 @@
 * buy
 * cage
 * calendar
+* call
 * candy
 * cap
 * careful
@@ -105,6 +106,7 @@
 * coat
 * coin
 * cold
+* come back
 * comfortable
 * comic book
 * contact
@@ -401,6 +403,7 @@
 * orange
 * our
 * ours
+* outdoor activity
 * outside
 * paint
 * painter
@@ -457,6 +460,7 @@
 * read
 * receive
 * red
+* refrigerator
 * repair
 * reply to
 * report card
@@ -467,6 +471,7 @@
 * ride on
 * right
 * ring
+* rise
 * river
 * rock
 * roof
