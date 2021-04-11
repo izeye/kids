@@ -1,5 +1,6 @@
 # Words
 * a loaf of bread
+* a lot
 * a minute ago
 * accident
 * act
@@ -342,6 +343,7 @@
 * living room
 * long
 * look around
+* look for
 * loud
 * lovely
 * lucky
@@ -421,6 +423,7 @@
 * pepper
 * perform
 * pet
+* pick up
 * pilot
 * pink
 * place
@@ -599,6 +602,8 @@
 * tower
 * town
 * train
+* trash
+* treasure
 * tree
 * try
 * Tuesday
