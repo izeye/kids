@@ -185,6 +185,7 @@
 * expensive
 * explorer
 * face
+* fairy tale
 * fall
 * fallen leaf
 * family
@@ -215,6 +216,7 @@
 * fluently
 * follow
 * for breakfast
+* for dinner
 * foreigner
 * forest
 * fork
@@ -254,6 +256,7 @@
 * gold
 * grandmother
 * grape
+* grass
 * gray
 * green
 * ground
@@ -334,6 +337,7 @@
 * laugh
 * lay
 * lazy
+* learn
 * leave
 * lemon
 * library
@@ -504,6 +508,7 @@
 * seventeen
 * seventh
 * seventy
+* shake hands
 * sharp
 * she
 * sheet
