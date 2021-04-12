@@ -14,6 +14,7 @@
 * album
 * alone
 * American
+* amusement park
 * angry
 * appear
 * April
@@ -25,6 +26,7 @@
 * at home
 * at night
 * at noon
+* at that time
 * August
 * aunt
 * autumn
@@ -104,6 +106,7 @@
 * closet
 * clothes
 * cloudy
+* clown
 * coat
 * coin
 * cold
@@ -125,6 +128,7 @@
 * customer
 * dancer
 * dangerous
+* dangerously
 * dark
 * daughter
 * daytime
@@ -446,6 +450,7 @@
 * poor
 * popular
 * post office
+* pot
 * practice
 * president
 * princess
