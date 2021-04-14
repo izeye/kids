@@ -101,6 +101,7 @@
 * church
 * classmate
 * clean
+* clerk
 * climb
 * close
 * closet
@@ -110,6 +111,7 @@
 * coat
 * coin
 * cold
+* comb
 * come back
 * comfortable
 * comic book
@@ -379,6 +381,7 @@
 * mop
 * morning
 * mountain
+* move
 * move around
 * movie
 * museum
@@ -570,6 +573,7 @@
 * summer
 * Sunday
 * sunflower
+* sunglasses
 * sunlight
 * sunny
 * surf
@@ -648,6 +652,7 @@
 * want
 * want to
 * warm
+* wash the dishes
 * watch
 * watermelon
 * we
