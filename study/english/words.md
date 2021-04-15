@@ -270,6 +270,7 @@
 * gym
 * hairpin
 * hamburger
+* hammer
 * handsome
 * happen
 * hard
@@ -288,6 +289,7 @@
 * his
 * history
 * hold
+* hole
 * holiday
 * hometown
 * homework
@@ -539,6 +541,7 @@
 * sleepy
 * slow
 * smart
+* smile
 * sneakers
 * snowy
 * soccer player
@@ -561,6 +564,7 @@
 * stair
 * stamp
 * stand
+* stand in line
 * start
 * station
 * stay
@@ -628,6 +632,7 @@
 * twentieth
 * twenty
 * twin
+* twinkle
 * two
 * typhoon
 * ugly
