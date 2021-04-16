@@ -43,6 +43,7 @@
 * be good for
 * bear
 * beautiful
+* because
 * bee
 * beetle
 * believe
@@ -99,6 +100,7 @@
 * choose
 * chopsticks
 * church
+* clap
 * classmate
 * clean
 * clerk
@@ -267,6 +269,7 @@
 * green
 * ground
 * grow
+* guest
 * gym
 * hairpin
 * hamburger
@@ -652,6 +655,7 @@
 * visit
 * volunteer
 * volunteer work
+* wait for
 * wake up
 * walk
 * want
