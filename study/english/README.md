@@ -21,7 +21,7 @@
 ## Cartoons
 ### Max & Ruby
 * Season 1 (Episode 1-12)
-* Season 2 (Episode 1-4)
+* Season 2 (Episode 1-5)
 
 ## Misc.
 * Why is w called a double u? - Learn English for Kids | Mocomi
