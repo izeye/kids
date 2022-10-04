@@ -18,6 +18,9 @@
 * [Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson](https://www.youtube.com/watch?v=jhZx7VsCKE8)
 * [Phonics Long Vowel u | u-e words](https://www.youtube.com/watch?v=XJ-_nS81R4s)
 
+## Speaking
+* [How to Breathe When Speaking English | Get Started with Breathing, Pausing, and Thought Groups](https://www.youtube.com/watch?v=IKUWcrVGrZE)
+
 ## Cartoons
 ### Max & Ruby
 * Season 1 (Episode 1-12)
