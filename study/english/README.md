@@ -27,5 +27,5 @@
 * Season 2 (Episode 1-5)
 
 ## Misc.
-* Why is w called a double u? - Learn English for Kids | Mocomi
-    * https://www.youtube.com/watch?v=KDgIXaB3EWY
+* [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
+* [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
