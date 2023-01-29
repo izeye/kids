@@ -9,3 +9,4 @@
 
 ### Art for Kids Hub
 * [How To Draw A Monster](https://www.youtube.com/watch?v=GgENm6Uk55o)
+* [How To Draw A Ninja!](https://www.youtube.com/watch?v=8DY81Syx5IE)
