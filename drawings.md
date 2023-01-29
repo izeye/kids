@@ -6,3 +6,6 @@
 * [How to Draw Fruit Juice Easy, Drawing for kids](https://www.youtube.com/watch?v=2Bg2KRAtWHY)
 * [How To Draw Funny Grapes - Preschool](https://www.youtube.com/watch?v=HJhAfnTwV1o)
 * [How To Draw Preschool Animals With Olivia](https://www.youtube.com/watch?v=G_mVY3M8ceQ)
+
+### Art for Kids Hub
+* [How To Draw A Monster](https://www.youtube.com/watch?v=GgENm6Uk55o)
