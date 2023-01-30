@@ -11,3 +11,4 @@
 * [How To Draw A Monster](https://www.youtube.com/watch?v=GgENm6Uk55o)
 * [How To Draw A Ninja!](https://www.youtube.com/watch?v=8DY81Syx5IE)
 * [How To Draw A Dragonfly](https://www.youtube.com/watch?v=60s79wNjQjg)
+* [How To Draw A Dragon](https://www.youtube.com/watch?v=1ksIegCk0Vg)
