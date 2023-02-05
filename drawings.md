@@ -14,3 +14,4 @@
 * [How To Draw A Dragon](https://www.youtube.com/watch?v=1ksIegCk0Vg)
 * [How To Draw A Butterfly](https://www.youtube.com/watch?v=TxU8msKBqAw)
 * [How To Draw A 3D Box](https://www.youtube.com/watch?v=Njhf2SMY4lY)
+* [How To Draw A Jack O'Lantern](https://www.youtube.com/watch?v=y6R6_dRK_bI)
