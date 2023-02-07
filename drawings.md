@@ -18,3 +18,4 @@
 * [How To Draw A Cat](https://www.youtube.com/watch?v=PwHbHvIhEZM)
 * [How To Draw Frankenstein](https://www.youtube.com/watch?v=jmfvmGbiICQ)
 * [How To Draw A Mummy](https://www.youtube.com/watch?v=kT3YJbP0pZA)
+* [How To Draw A Snowman](https://www.youtube.com/watch?v=HKnLw6fceLA)
