@@ -17,3 +17,4 @@
 * [How To Draw A Jack O'Lantern](https://www.youtube.com/watch?v=y6R6_dRK_bI)
 * [How To Draw A Cat](https://www.youtube.com/watch?v=PwHbHvIhEZM)
 * [How To Draw Frankenstein](https://www.youtube.com/watch?v=jmfvmGbiICQ)
+* [How To Draw A Mummy](https://www.youtube.com/watch?v=kT3YJbP0pZA)
