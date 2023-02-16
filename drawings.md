@@ -21,3 +21,4 @@
 * [How To Draw A Snowman](https://www.youtube.com/watch?v=HKnLw6fceLA)
 * [How To Draw A Fairy](https://www.youtube.com/watch?v=kc_iugiP314)
 * [How To Draw Santa](https://www.youtube.com/watch?v=wZHGxCjDXKU)
+* [How To Draw Crazy Christmas Elves](https://www.youtube.com/watch?v=N70SMBklMPA)
