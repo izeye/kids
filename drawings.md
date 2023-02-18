@@ -25,3 +25,4 @@
 * [How To Draw A Wreath](https://www.youtube.com/watch?v=yBqSgMxQgno)
 * [How To Draw Baby Jesus](https://www.youtube.com/watch?v=uglci5qlnUI)
 * [How To Draw An Angel](https://www.youtube.com/watch?v=x1b6okX2xgY)
+* [How To Draw A Ladybug](https://www.youtube.com/watch?v=cZaGsS6joHM)
