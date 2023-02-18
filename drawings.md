@@ -23,3 +23,4 @@
 * [How To Draw Santa](https://www.youtube.com/watch?v=wZHGxCjDXKU)
 * [How To Draw Crazy Christmas Elves](https://www.youtube.com/watch?v=N70SMBklMPA)
 * [How To Draw A Wreath](https://www.youtube.com/watch?v=yBqSgMxQgno)
+* [How To Draw Baby Jesus](https://www.youtube.com/watch?v=uglci5qlnUI)
