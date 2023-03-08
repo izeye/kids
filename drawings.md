@@ -28,4 +28,5 @@
 * [How To Draw A Ladybug](https://www.youtube.com/watch?v=cZaGsS6joHM)
 * [How To Draw A Cupid](https://www.youtube.com/watch?v=WftGT_F3U-4)
 * [How To Draw A Princess](https://www.youtube.com/watch?v=aAeyggfu_0I)
-* [How To Draw A Horse (for kids)](https://www.youtube.com/watch?v=8p-qX5qs8lU) (TO WATCH)
+* [How To Draw A Horse (for kids)](https://www.youtube.com/watch?v=8p-qX5qs8lU)
+* [How To Draw A Scorpion (for kids)](https://www.youtube.com/watch?v=Jfks2lC1j9U) (TO WATCH)
