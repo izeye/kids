@@ -26,6 +26,20 @@
 * Season 1 (Episode 1-12)
 * Season 2 (Episode 1-5)
 
+## YouTube
+### Learn English with EnglishClass101.com
+* [Learn English - English Vegetable Vocabulary](https://www.youtube.com/watch?v=0xcGaaiDjX4)
+* [Learn English - English Fruit Vocabulary](https://www.youtube.com/watch?v=q4lJqY62gcA) (TO WATCH)
+* [Learn English - English Vehicles Vocabulary](https://www.youtube.com/watch?v=c3QmTsGxODc) (TO WATCH)
+* [Learn English - English Building Vocabulary](https://www.youtube.com/watch?v=lAoqZ-YK_Ks) (TO WATCH)
+* [Learn English - English Body Parts Vocabulary](https://www.youtube.com/watch?v=Zo9fQ9A60rU) (TO WATCH)
+* [Learn English - English Kitchen Vocabulary](https://www.youtube.com/watch?v=TdHeNltTZsU) (TO WATCH)
+* [Learn English - English Weather Vocabulary](https://www.youtube.com/watch?v=OsAj4s-x3yg) (TO WATCH)
+* [Learn English - English Clothing Vocabulary](https://www.youtube.com/watch?v=buyp2APZr4g) (TO WATCH)
+* [Learn English - English Bookstore Vocabulary](https://www.youtube.com/watch?v=p1AAzSy0k-4) (TO WATCH)
+* [Learn English - English School Vocabulary](https://www.youtube.com/watch?v=NSVTw_j30QU) (TO WATCH)
+* [Learn English - English Room Vocabulary](https://www.youtube.com/watch?v=GeHUzx0PzdY) (TO WATCH)
+
 ## Misc.
 * [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
