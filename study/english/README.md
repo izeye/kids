@@ -14,6 +14,7 @@
     * https://www.youtube.com/watch?v=PeHT9hNORPU
 
 ## Pronunciation
+* [English Pronunciation: Pitch vs. Peach -](https://www.youtube.com/watch?v=Pq4pVSpWTXg)
 * [Learn the IPA: Difference Between [i] and [ɪ]](https://www.youtube.com/watch?v=UzIIfn1ooJ0)
 * [Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson](https://www.youtube.com/watch?v=jhZx7VsCKE8)
 * [Phonics Long Vowel u | u-e words](https://www.youtube.com/watch?v=XJ-_nS81R4s)
