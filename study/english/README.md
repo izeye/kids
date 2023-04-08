@@ -19,6 +19,7 @@
 * [Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson](https://www.youtube.com/watch?v=jhZx7VsCKE8)
 * [Phonics Long Vowel u | u-e words](https://www.youtube.com/watch?v=XJ-_nS81R4s)
 * [The /æ/ Vowel Sound (cat, have) | British Pronunciation](https://www.youtube.com/watch?v=0UhhMtD6u9Q)
+* [The /ə/ Sound](https://www.youtube.com/watch?v=RVvn6204I_Y)
 
 ## Speaking
 * [How to Breathe When Speaking English | Get Started with Breathing, Pausing, and Thought Groups](https://www.youtube.com/watch?v=IKUWcrVGrZE)
