@@ -15,6 +15,7 @@
 
 ## Pronunciation
 * [[발음Q&A 263] - accept 발음과 except 발음 과연 같을까? / accept 발음/ 원어민 발음](https://www.youtube.com/watch?v=WtsO33Hi0kk)
+* [American English Sounds - UR [ɜ] Vowel - How to make the UR as in BIRD Vowel](https://www.youtube.com/watch?v=Ehn6XixUBKs)
 * [English Pronunciation: Pitch vs. Peach -](https://www.youtube.com/watch?v=Pq4pVSpWTXg)
 * [Learn the IPA: Difference Between [i] and [ɪ]](https://www.youtube.com/watch?v=UzIIfn1ooJ0)
 * [Long Vowel U Vowel Consonant Vowel, Beginning Readers Grammar Phonics Lesson](https://www.youtube.com/watch?v=jhZx7VsCKE8)
