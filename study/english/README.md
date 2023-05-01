@@ -72,3 +72,4 @@
 * [which 관계 대명사 - Part 1 [ 영어회화 ]](https://www.youtube.com/watch?v=NUwbOJP049U)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
 * [동명사 vs. to 부정사 완전 비교 분석!](https://www.youtube.com/watch?v=DuLsBcxOLvI)
+* ['현재완료'의 정확한 개념! 현재완료의 진실 #현재완료 #영문법 #비밀 #영어공부 #영어뇌](https://www.youtube.com/watch?v=iPJai5SOiV0)
