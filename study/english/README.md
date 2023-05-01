@@ -70,3 +70,4 @@
 ## Misc.
 * [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
+* [동명사 vs. to 부정사 완전 비교 분석!](https://www.youtube.com/watch?v=DuLsBcxOLvI)
