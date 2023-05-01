@@ -71,5 +71,6 @@
 * [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
 * [which 관계 대명사 - Part 1 [ 영어회화 ]](https://www.youtube.com/watch?v=NUwbOJP049U)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
+* [[국내최초공개]매번 써도몰랐던 사역동사 진짜 의미: 각각의 뉘앙스 차이와 원리를 깔끔하게 정리해 드려요.](https://www.youtube.com/watch?v=Qo9rT-U5CLk)
 * [동명사 vs. to 부정사 완전 비교 분석!](https://www.youtube.com/watch?v=DuLsBcxOLvI)
 * ['현재완료'의 정확한 개념! 현재완료의 진실 #현재완료 #영문법 #비밀 #영어공부 #영어뇌](https://www.youtube.com/watch?v=iPJai5SOiV0)
