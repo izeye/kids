@@ -19,6 +19,7 @@
 * [English Pronunciation: Pitch vs. Peach -](https://www.youtube.com/watch?v=Pq4pVSpWTXg)
 * [English Sounds - EW [ju] Diphthong - How to make the EW as in FEW Diphthong](https://www.youtube.com/watch?v=3VhF-y1EVoE)
 * [How Americans Pronounce "Suggest"](https://www.youtube.com/watch?v=6nLlSEN1jlI)
+* [How to Pronounce Exit (2 Correct Ways)](https://www.youtube.com/watch?v=KXpdtxhQ81M)
 * [How to Pronounce Suggest and Suggestion](https://www.youtube.com/watch?v=-D5OQ60ohX4)
 * [JJ sound in 'Could You?' -- American English Pronunciation](https://www.youtube.com/watch?v=hr2BePfVll8)
 * [Learn the IPA: Difference Between [i] and [ɪ]](https://www.youtube.com/watch?v=UzIIfn1ooJ0)
