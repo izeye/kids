@@ -71,6 +71,7 @@
 * [Learn English with Video - Australian Animals](https://www.youtube.com/watch?v=45tt0CM-kbY) (TO WATCH)
 
 ## Misc.
+* [Although, Though, Even Though [Advanced English Vocabulary]](https://www.youtube.com/watch?v=r2-rfHs-jh0)
 * [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
 * [which 관계 대명사 - Part 1 [ 영어회화 ]](https://www.youtube.com/watch?v=NUwbOJP049U)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
