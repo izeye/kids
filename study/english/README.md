@@ -72,6 +72,7 @@
 
 ## Misc.
 * [Although, Though, Even Though [Advanced English Vocabulary]](https://www.youtube.com/watch?v=r2-rfHs-jh0)
+* [How to use FOOT and FEET correctly – English Language Questions and Answers](https://www.youtube.com/watch?v=Vbt2ire7iI4)
 * [Teaching English to Children in a FUN Way - English Language Games](https://www.youtube.com/watch?v=-lYhBrAaJqk)
 * [which 관계 대명사 - Part 1 [ 영어회화 ]](https://www.youtube.com/watch?v=NUwbOJP049U)
 * [Why is w called a double u? - Learn English for Kids | Mocomi](https://www.youtube.com/watch?v=KDgIXaB3EWY)
