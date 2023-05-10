@@ -27,6 +27,7 @@
 * [Phonics Long Vowel u | u-e words](https://www.youtube.com/watch?v=XJ-_nS81R4s)
 * [The /æ/ Vowel Sound (cat, have) | British Pronunciation](https://www.youtube.com/watch?v=0UhhMtD6u9Q)
 * [The /ə/ Sound](https://www.youtube.com/watch?v=RVvn6204I_Y)
+* [The Sounds of American English: Vowel Schwa /ʌ, ə/ - SMART American Accent Training](https://www.youtube.com/watch?v=RsumYs0z6RY)
 
 ## Speaking
 * [How to Breathe When Speaking English | Get Started with Breathing, Pausing, and Thought Groups](https://www.youtube.com/watch?v=IKUWcrVGrZE)
