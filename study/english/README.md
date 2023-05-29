@@ -82,5 +82,9 @@
 * [[영문법 바로하기][중급편] 8분완성 분사구문, 완료분사구문, 접속사를 포함한 분사구문 - 문법이 필요한 모든 분들 필수 시청](https://www.youtube.com/watch?v=VJyQvPxMp1s)
 * ['현재완료'의 정확한 개념! 현재완료의 진실 #현재완료 #영문법 #비밀 #영어공부 #영어뇌](https://www.youtube.com/watch?v=iPJai5SOiV0)
 
+## The Singing Walrus
+### Alphabet Writing lesson for children
+* [Write the letter A](https://www.youtube.com/watch?v=Kt0nlWkUBJw)
+
 ## Misc.
 * ["Water" and "waters"](https://www.britannica.com/dictionary/eb/qa/water-and-waters)
