@@ -1,15 +1,11 @@
 # kids
 ## Songs
-* Baby Shark and More | Kids Fun Songs
-  * https://m.youtube.com/watch?v=gZFBLJCk7pU
-* Let's Go To The Zoo | Animal Song for Kids
-  * https://www.youtube.com/watch?v=OwRmivbNgQk
-* Ten Little Indians - Nursery Rhyme with Karaoke
-  * https://www.youtube.com/watch?v=tIn1otW20r0
-* The Finger Family (Monkey's Family) Nursery Rhyme | Kids Animation Songs For Children
-  * https://www.youtube.com/watch?v=x3kx9YoqzOY
-* Walking In The Jungle | Super Simple Songs
-  * https://www.youtube.com/watch?v=GoSq-yZcJ-4
+* [Baby Shark and More | Kids Fun Songs](https://m.youtube.com/watch?v=gZFBLJCk7pU)
+* [Let's Go To The Zoo | Animal Song for Kids](https://www.youtube.com/watch?v=OwRmivbNgQk)
+* [Ten Little Indians - Nursery Rhyme with Karaoke](https://www.youtube.com/watch?v=tIn1otW20r0)
+* [The Finger Family (Monkey's Family) Nursery Rhyme | Kids Animation Songs For Children](https://www.youtube.com/watch?v=x3kx9YoqzOY)
+* [Walking In The Jungle | Super Simple Songs](https://www.youtube.com/watch?v=GoSq-yZcJ-4)
+* [내 똥꼬는 힘이 좋아 MV 댄스 버전 [월세 유세윤]](https://www.youtube.com/watch?v=Lebljp9YT8Q)
 
 ## Games
 ### Games to learn English
