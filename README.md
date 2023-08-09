@@ -5,6 +5,7 @@
 * [Ten Little Indians - Nursery Rhyme with Karaoke](https://www.youtube.com/watch?v=tIn1otW20r0)
 * [The Finger Family (Monkey's Family) Nursery Rhyme | Kids Animation Songs For Children](https://www.youtube.com/watch?v=x3kx9YoqzOY)
 * [Walking In The Jungle | Super Simple Songs](https://www.youtube.com/watch?v=GoSq-yZcJ-4)
+* [[국악동요] 아무 이유 없이 좋은 친구](https://www.youtube.com/watch?v=ADtt-Calnh8)
 * [[국악동요] 응가송_내똥꼬](https://www.youtube.com/watch?v=0pMUJNH8KSM)
 * [내 똥꼬는 힘이 좋아 MV 댄스 버전 [월세 유세윤]](https://www.youtube.com/watch?v=Lebljp9YT8Q)
 
