@@ -9,3 +9,4 @@
 7. I am happy
 8. I am small
 9. I like cheese
+10. It is red
