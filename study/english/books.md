@@ -5,3 +5,4 @@
 3. I have a book
 4. I wash my hands
 5. I touch my eye
+6. I put on my shirt
