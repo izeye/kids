@@ -3,3 +3,4 @@
 1. Good morning
 2. This is a chair
 3. I have a book
+4. I wash my hands
