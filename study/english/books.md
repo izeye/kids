@@ -8,3 +8,4 @@
 6. I put on my shirt
 7. I am happy
 8. I am small
+9. I like cheese
