@@ -4,3 +4,4 @@
 2. This is a chair
 3. I have a book
 4. I wash my hands
+5. I touch my eye
