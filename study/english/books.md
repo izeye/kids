@@ -10,3 +10,4 @@
 8. I am small
 9. I like cheese
 10. It is red
+11. I draw a circle
