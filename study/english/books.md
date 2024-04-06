@@ -27,3 +27,4 @@
 23. What do you see?
 24. How is the weather?
 25. Milk, please
+26. What do you do?
