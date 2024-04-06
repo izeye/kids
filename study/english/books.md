@@ -25,3 +25,4 @@
 21. What do you need?
 22. What is your name?
 23. What do you see?
+24. How is the weather?
