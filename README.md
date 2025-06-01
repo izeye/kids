@@ -25,6 +25,7 @@
 ### YouTube
 * [For Kids: Indoor Activities](https://www.youtube.com/watch?v=v9AAmD4gq1I)
 * [How to Keep Easily Distracted Kids Focused](https://www.youtube.com/watch?v=T4lnVzNBtKY)
+* [둘이하는 실뜨기 자세한 설명으로 누구나 따라할 수 있는 실뜨기! I 실뜨기, 초등실뜨기, 창의실뜨기, 실뜨기놀이, 실뜨기교육, 실뜨기하는법 #민화샵](https://www.youtube.com/watch?v=pKgK4gkgxBw)
 
 ## Riddles
 ### YouTube
