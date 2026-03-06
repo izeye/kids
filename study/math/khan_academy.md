@@ -16,3 +16,10 @@
   * [Counting by tens](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-numbers-120/v/counting-by-tens-example-problems)
   * [Count tens](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-numbers-120/e/counting-tens)
 * [Quiz 1](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-numbers-120/quiz/cc-early-math-counting-topic-quiz-1)
+* Lesson 3: Counting objects
+  * [Counting in pictures](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/v/counting-in-scenes)
+  * [Count in pictures](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/e/counting-in-scenes)
+  * [Counting objects 1](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/v/how-many-objects-1)
+  * [Count objects 1](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/e/how-many-objects-1)
+  * [Counting objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/v/counting-objects-2)
+  * [Count objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/e/how-many-objects-2)
