@@ -23,3 +23,12 @@
   * [Count objects 1](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/e/how-many-objects-1)
   * [Counting objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/v/counting-objects-2)
   * [Count objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-count-object-topic/e/how-many-objects-2)
+* Lesson 4: Comparing small numbers
+  * [Comparing numbers of objects](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/v/comparing-groups-through-10-example)
+  * [Compare numbers of objects 1](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/e/compare-groups-through-10)
+  * [Comparing numbers on the number line](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/v/comparing-numbers-through-10-example)
+  * [Comparing numbers to 10](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/e/comparing-numbers-through-10)
+  * [Counting by category](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/v/count-by-category)
+  * [Compare numbers of objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/e/sort-groups-by-count)
+* [Quiz 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/quiz/cc-early-math-counting-topic-quiz-2)
+* [Unit test](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/test/cc-early-math-counting-topic-unit-test)
