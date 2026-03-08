@@ -32,3 +32,10 @@
   * [Compare numbers of objects 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/e/sort-groups-by-count)
 * [Quiz 2](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/quiz/cc-early-math-counting-topic-quiz-2)
 * [Unit test](https://www.khanacademy.org/math/early-math/cc-early-math-counting-topic/cc-early-math-comparing-numbers/test/cc-early-math-counting-topic-unit-test)
+
+### Unit 2: Addition and subtraction intro
+* Lesson 1: What is addition? What is subtraction?
+  * [Intro to addition](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/v/addition-introduction)
+  * [Add within 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/e/addition_1)
+  * [Intro to subtraction](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/v/subtraction-introduction)
+  * [Subtract within 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/e/subtraction_1)
