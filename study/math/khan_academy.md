@@ -39,3 +39,8 @@
   * [Add within 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/e/addition_1)
   * [Intro to subtraction](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/v/subtraction-introduction)
   * [Subtract within 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-sub-intro/e/subtraction_1)
+* Lesson 2: Making small numbers
+  * [Making 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/v/making-5)
+  * [Making 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/e/making-five)
+  * [Making small numbers in different ways](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/e/making-totals-in-different-ways-within-10)
+* [Quiz 1](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/quiz/cc-early-math-add-sub-basics-quiz-1)
