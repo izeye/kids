@@ -44,3 +44,8 @@
   * [Making 5](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/e/making-five)
   * [Making small numbers in different ways](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/e/making-totals-in-different-ways-within-10)
 * [Quiz 1](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-making-5-9/quiz/cc-early-math-add-sub-basics-quiz-1)
+* Lesson 3: Making 10
+  * [Getting to 10 by filling boxes](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/v/getting-to-10-by-filling-boxes)
+  * [Make 10 (grids and number bonds)](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/e/making-ten)
+  * [Adding to 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/v/adding-to-10-example)
+  * [Make 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/e/making-ten-2)
