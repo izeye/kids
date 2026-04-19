@@ -49,3 +49,9 @@
   * [Make 10 (grids and number bonds)](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/e/making-ten)
   * [Adding to 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/v/adding-to-10-example)
   * [Make 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-make-10/e/making-ten-2)
+* Lesson 4: Put together, take apart
+  * [Add and subtract: pieces of fruit](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-together-apart/v/adding-fruit)
+  * [Addition and subtraction within 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-together-apart/v/addition-and-subtraction-within-10)
+  * [Add within 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-together-apart/e/put-together)
+  * [Subtract within 10](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-together-apart/e/take-apart)
+* [Quiz 2](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-together-apart/quiz/cc-early-math-add-sub-basics-quiz-2)
