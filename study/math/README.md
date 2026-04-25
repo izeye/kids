@@ -6,6 +6,7 @@
 
 ### mathantics
 * [Math Antics - Multi-Digit Addition](https://www.youtube.com/watch?v=mAvuom42NyY)
+* [Math Antics - Multi-Digit Subtraction](https://www.youtube.com/watch?v=Y6M89-6106I)
 
 ### Misc.
 * [Number Pi - π - Math for Kids - What is Number Pi?] (https://www.youtube.com/watch?v=De0JKAFqCy0)
