@@ -215,3 +215,4 @@
 * [How To Draw A Stormtrooper Helmet](https://www.youtube.com/watch?v=Q2JwbjlAtKI)
 * [How To Draw Mordecai](https://www.youtube.com/watch?v=lwhUre7BVH4)
 * [How To Draw A Blue Jay](https://www.youtube.com/watch?v=Tq2vsBH_-44)
+* [How To Draw Pickle The Axolotl Scientist](https://www.youtube.com/watch?v=jwmrfD8TOUs)
