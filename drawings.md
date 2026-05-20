@@ -218,3 +218,4 @@
 * [How To Draw Pickle The Axolotl Scientist](https://www.youtube.com/watch?v=jwmrfD8TOUs)
 * [How To Draw Bean The Summer Capybara](https://www.youtube.com/watch?v=Ov3eA6pFDxQ)
 * [How To Draw Funny Summer Lemonade](https://www.youtube.com/watch?v=FWsyKw2-en4)
+* [How To Draw Shelly The Sea Turtle](https://www.youtube.com/watch?v=lp_27Exuq9k)
