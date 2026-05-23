@@ -220,3 +220,4 @@
 * [How To Draw Funny Summer Lemonade](https://www.youtube.com/watch?v=FWsyKw2-en4)
 * [How To Draw Shelly The Sea Turtle](https://www.youtube.com/watch?v=lp_27Exuq9k)
 * [How To Draw Cuddles Teddy Bear Nurse](https://www.youtube.com/watch?v=XpBNNPxlVtE)
+* [How To Draw Ziggy The Sloth That Loves Music](https://www.youtube.com/watch?v=K2M8g6UGwxk)
