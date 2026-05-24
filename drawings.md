@@ -223,3 +223,4 @@
 * [How To Draw Ziggy The Sloth That Loves Music](https://www.youtube.com/watch?v=K2M8g6UGwxk)
 * [How To Draw A Queen Bee](https://www.youtube.com/watch?v=RQ-Yhzv2FRM)
 * [How To Draw Bean The Capybara Swimming](https://www.youtube.com/watch?v=4vYbtb6zFPQ)
+* [How To Draw Noodle The Jellyfish Chef](https://www.youtube.com/watch?v=p7WLSB6Ztfk)
