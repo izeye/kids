@@ -221,3 +221,4 @@
 * [How To Draw Shelly The Sea Turtle](https://www.youtube.com/watch?v=lp_27Exuq9k)
 * [How To Draw Cuddles Teddy Bear Nurse](https://www.youtube.com/watch?v=XpBNNPxlVtE)
 * [How To Draw Ziggy The Sloth That Loves Music](https://www.youtube.com/watch?v=K2M8g6UGwxk)
+* [How To Draw A Queen Bee](https://www.youtube.com/watch?v=RQ-Yhzv2FRM)
