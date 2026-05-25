@@ -224,3 +224,4 @@
 * [How To Draw A Queen Bee](https://www.youtube.com/watch?v=RQ-Yhzv2FRM)
 * [How To Draw Bean The Capybara Swimming](https://www.youtube.com/watch?v=4vYbtb6zFPQ)
 * [How To Draw Noodle The Jellyfish Chef](https://www.youtube.com/watch?v=p7WLSB6Ztfk)
+* [How To Draw A Mom And Baby Strawberry For Mother's Day](https://www.youtube.com/watch?v=ZXwjJ7SjEp8)
