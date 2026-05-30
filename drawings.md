@@ -229,3 +229,4 @@
 * [How To Draw A Pinata Folding Surprise](https://www.youtube.com/watch?v=SwK9nkBa5_k)
 * [How To Draw Cute Darth Maul](https://www.youtube.com/watch?v=6WFI1QEkJno)
 * [How To Draw Charly The Floating Otter](https://www.youtube.com/watch?v=VJy3mHZyy-A)
+* [How To Draw Tommy The Triceratops](https://www.youtube.com/watch?v=2b9OboyTL0o)
