@@ -232,3 +232,4 @@
 * [How To Draw Tommy The Triceratops](https://www.youtube.com/watch?v=2b9OboyTL0o)
 * [How To Draw Benny The Cheeseburger](https://www.youtube.com/watch?v=1rDN4AqBoGs)
 * [How To Draw Capybara Squishmallow](https://www.youtube.com/watch?v=k3qakDkMG0g)
+* [How To Draw George The Woolly Mammoth](https://www.youtube.com/watch?v=9cQq7M1yxQc)
