@@ -234,3 +234,4 @@
 * [How To Draw Capybara Squishmallow](https://www.youtube.com/watch?v=k3qakDkMG0g)
 * [How To Draw George The Woolly Mammoth](https://www.youtube.com/watch?v=9cQq7M1yxQc)
 * [How To Draw Princess Rosalina from Super Mario Galaxy](https://www.youtube.com/watch?v=OukDd4qFjM8)
+* [How To Draw Milo The Happy Milk](https://www.youtube.com/watch?v=RebTVCGs95U)
