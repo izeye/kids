@@ -236,3 +236,4 @@
 * [How To Draw Princess Rosalina from Super Mario Galaxy](https://www.youtube.com/watch?v=OukDd4qFjM8)
 * [How To Draw Milo The Happy Milk](https://www.youtube.com/watch?v=RebTVCGs95U)
 * [How To Draw Fuzzby The Fuzzy Little Monster](https://www.youtube.com/watch?v=mFdCiBnoTKk)
+* [How To Draw A Cool Electric Bike (E-Bike)](https://www.youtube.com/watch?v=3-45pSoa3dc)
