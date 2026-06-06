@@ -237,3 +237,4 @@
 * [How To Draw Milo The Happy Milk](https://www.youtube.com/watch?v=RebTVCGs95U)
 * [How To Draw Fuzzby The Fuzzy Little Monster](https://www.youtube.com/watch?v=mFdCiBnoTKk)
 * [How To Draw A Cool Electric Bike (E-Bike)](https://www.youtube.com/watch?v=3-45pSoa3dc)
+* [How To Draw Dottie The Birthday Donut](https://www.youtube.com/watch?v=EvWSWpHsPSI)
