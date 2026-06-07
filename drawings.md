@@ -240,3 +240,4 @@
 * [How To Draw Dottie The Birthday Donut](https://www.youtube.com/watch?v=EvWSWpHsPSI)
 * [How To Draw The Earth And Moon Buddies For Earth Day](https://www.youtube.com/watch?v=rM7YLAbknQk)
 * [How To Draw A Unicorn In A Crystal Egg Folding Surprise](https://www.youtube.com/watch?v=olkOHdfIUYs)
+* [How To Draw Indominus Rex From Jurassic Park](https://www.youtube.com/watch?v=rcWUFyIUuXo)
